@@ -60,11 +60,11 @@ const Footer = () => {
                 <section className='tw-flex tw-items-center tw-gap-x-10 tw-mx-20 tw-border-b-2 tw-pb-5 tw-border-blue-200'>
                     <p>Follow Us</p>
                     <div className='tw-flex tw-items-center tw-gap-x-7'>
-                        <img src={facebook} alt="facebook" className='tw-w-5' />
-                        <img src={youtube} alt="youtube" className='tw-w-6' />
+                        <a href='https://www.facebook.com/faucone' target="_blank"><img src={facebook} alt="facebook" className='tw-w-5' /></a>
+                        <a href='https://www.youtube.com/@faucone8395' target="_blank"><img src={youtube} alt="youtube" className='tw-w-6' /></a>
                         <img src={twitter} alt="twitter" className='tw-w-4' />
-                        <img src={instagram} alt="instagram" className='tw-w-5' />
-                        <img src={linkedin} alt="linkedin" className='tw-w-5' />
+                        <a href='https://www.instagram.com/fauconegroup/' target="_blank"><img src={instagram} alt="instagram" className='tw-w-5' /></a>
+                        <a href='https://www.linkedin.com/company/faucone-business-solutions-pvt-ltd/' target="_blank"><img src={linkedin} alt="linkedin" className='tw-w-5' /></a>
                     </div>
                 </section>
 
@@ -272,7 +272,7 @@ const Footer = () => {
                     <img src={facebook} alt="facebook" className='tw-w-7' />
                     <img src={instagram} alt="instagram" className='tw-w-7' />
                     <img src={linkedin} alt="linkedin" className='tw-w-7' />
-                    <img src={youtube} alt="youtube" className='tw-w-9' />
+                    <a href='https://www.youtube.com/@faucone8395'><img src={youtube} alt="youtube" className='tw-w-9' /></a>
                 </div>
 
                 {/* footer nav bar */}
