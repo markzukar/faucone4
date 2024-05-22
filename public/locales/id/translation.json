@@ -1,0 +1,287 @@
+{
+    "mainHeader": {
+        "company": "Perusahaan",
+        "industries": {
+            "name": "Industri",
+            "aero": "Dirgantara dan Pertahanan",
+            "aviation": "Penerbangan",
+            "automotive": "Otomotif",
+            "bankFinance": "Perbankan",
+            "capital": "Pasar modal",
+            "construction": "Konstruksi",
+            "chemical": "Bahan kimia",
+            "consumer": "Barang konsumsi",
+            "energy": "Energi",
+            "fmcg": "FMCG",
+            "food": "Makanan",
+            "health": "Kesehatan",
+            "industrial": "Manufaktur Industri",
+            "insurance": "Pertanggungan",
+            "lifeScience": "Ilmu Hayati",
+            "manufacture": "Industri manufaktur",
+            "media": "Media",
+            "mining": "Pertambangan",
+            "oil": "Minyak",
+            "public": "Sektor publik",
+            "retail": "Pengecer",
+            "telecom": "Telekomunikasi",
+            "travel": "Bepergian",
+            "transport": "Transportasi, Logistik"
+        },
+        "ourBrands": {
+            "name": "Merk Kita",
+            "Business": "Bisnis",
+            "Digital": "Digital",
+            "Technologies": "Teknologi",
+            "Solutions": "Solusi",
+            "Finance": "Keuangan",
+            "Consultancy": "Konsultasi",
+            "Studios": "Studio",
+            "Advertising": "Periklanan",
+            "Space": "Ruang angkasa",
+            "Design": "Desain",
+            "Prints": "Cetakan",
+            "Accounting": "Akuntansi",
+            "Legal": "Hukum",
+            "Supplies": "Persediaan",
+            "Academy": "Akademi",
+            "Overseas": "Luar negeri"
+        },
+        "services": {
+            "name": "Jasa",
+            "multi": "Branding Multi Dimensi",
+            "advertise": "Solusi Periklanan 360 derajat",
+            "brand": "Transformasi Merek",
+            "scaling": "Penskalaan Teknologi untuk Pembangunan",
+            "interlink": "Konsep Bisnis yang Saling Menghubungkan",
+            "business": "1:1 Pelatihan Bisnis",
+            "innovative": "Proses Kewirausahaan yang Inovatif",
+            "quality": "Menerapkan Proses Bisnis yang Berkualitas",
+            "revenue": "Pendapatan lox",
+            "career": "Perencanaan dan Pengembangan Karir",
+            "startup": "Hubungan Investor Permulaan",
+            "hybird": "Mengembangkan Model Kerja Hybrid"
+        },
+        "insights": "Wawasan",
+        "contactUs": "Hubungi kami"
+    },
+    "home": {
+        "power": "DAYA",
+        "brand": "MEREK",
+        "create": "MENCIPTAKAN",
+        "enterpernur": "PENGUSAHA",
+        "sub_content": "Misi Faucone adalah menciptakan wirausahawan, memberdayakan merek, dan membangun masa depan yang bermakna melalui ide-ide maju",
+        "vision": "Visi kami",
+        "vision_desc": "Visi kami adalah menciptakan merek. ",
+        "mision": "Misi kita",
+        "mision_desc": "Misi kami adalah menciptakan wirausaha, memperkuat merek, dan membangun masa depan yang bermakna melalui ide-ide maju",
+        "ourValues": "Nilai kita",
+        "value1": "Sifat bening",
+        "value2": "Berbudi luhur",
+        "value3": "Rasa syukur",
+        "goal": "Tujuan kita",
+        "goal_desc": "Tujuan kami adalah menciptakan dan mengembangkan 100.000 pemilik bisnis dan merek yang sukses melalui Teknologi dan inovasi dalam 10 tahun ke depan",
+        "motto": "Motto kami",
+        "motto_desc": "Kami menjalankan bisnis klien kami seolah-olah itu milik kami sendiri",
+        "our": "KITA",
+        "to": "KE",
+        "the": "ITU",
+        "contribution": "KONTRIBUSI",
+        "Socity": "MASYARAKAT",
+        "women_empower": "Pemberdayaan Perempuan",
+        "women_empower_desc1": "Akses terhadap internet memungkinkan perempuan menerima pelatihan yang membuka pintu terhadap keterampilan penting lainnya",
+        "women_empower_desc2": "Sebuah investasi yang menghasilkan berbagai manfaat yang tidak hanya berdampak pada perempuan tetapi juga keluarga dan komunitas mereka secara keseluruhan",
+        "women_empower_desc3": "Mendorong perempuan untuk menciptakan bisnis mereka sendiri, yang akan menguntungkan kedua negara berkembang secara finansial",
+        "startup_ecoSystem": "Penggerak Ekosistem Startup",
+        "startup_ecoSystem_desc": "Ekosistem startup adalah kumpulan individu, perusahaan, dan organisasi terkait yang bekerja sama untuk membangun dan mengembangkan startup. ",
+        "women_enterpernership": "Kewirausahaan Perempuan",
+        "women_enterpernership_desc": "Meningkatnya kehadiran perempuan sebagai wirausaha telah membawa pertumbuhan bisnis dan ekonomi yang signifikan di negara ini. ",
+        "gig_economy": "Mengembangkan Gig Ekonomi",
+        "gig_economy_desc": "GIG Economy - Tenaga kerja pertunjukan di India, yang diperkirakan berjumlah 77 lakh pada tahun 2020-2021, diperkirakan akan meningkat 2,35 crore pada tahun 2029-30. ",
+        "socity1": "Branding dan Pemasaran Multidimensi",
+        "socity2": "Konsep Bisnis yang Saling Menghubungkan",
+        "socity3": "Pendapatan 10X",
+        "socity4": "360. Solusi Periklanan",
+        "socity5": "1:1 Pelatihan Bisnis",
+        "socity6": "Perencanaan dan Pengembangan Karir",
+        "socity7": "Transformasi Merek",
+        "socity8": "Proses Kewirausahaan yang Inovatif",
+        "socity9": "Hubungan Investor Permulaan",
+        "socity10": "Menskalakan Teknologi untuk Pembangunan",
+        "socity11": "Menerapkan Proses Bisnis yang Berkualitas",
+        "socity12": "Mengembangkan Model Kerja Hybrid",
+        "popular": "POPULER",
+        "events": "ACARA",
+        "multiDimension": "Branding dan Pemasaran Multidimensi",
+        "saturday": "Sabtu - 18.00",
+        "location": "Restoran Po'ina",
+        "abby": "Biara Chun",
+        "followers": "26 pengikut",
+        "letsWork": "AYO BEKERJA",
+        "together": "BERSAMA",
+        "overcomeYourChallenges": "Lihat bagaimana kami dapat membantu mengatasi tantangan Anda",
+        "globe_heading": "16 SOLUSI 1 MEREK",
+        "industriesWeServe": {
+            "name": "INDUSTRI YANG KAMI LAYANI",
+            "aeroSpace": {
+                "name": "Dirgantara dan Pertahanan",
+                "pagragraph": "Meningkatnya permintaan segmen pesawat komersial. "
+            },
+            "aviation": {
+                "name": "Penerbangan",
+                "para1": "Penerbangan sudah dikenal sebagai kekuatan pendorong pengembangan dan inovasi teknologi global",
+                "para2": "Investasi besar dalam Kecerdasan Buatan (A1) dan Big Data dapat dilihat sebagai cara yang menjanjikan untuk meningkatkan keselamatan, efisiensi, dan keberlanjutan. "
+            },
+            "automotive": {
+                "name": "Otomotif",
+                "para": "Meningkatnya tingkat perjalanan udara, khususnya di negara-negara berkembang di Amerika Utara dan Amerika Latin. "
+            },
+            "banking": {
+                "name": "Perbankan",
+                "para": "Data yang diterima melalui berbagai pengembalian undang-undang di RBI terutama digunakan untuk perumusan kebijakan moneter dan resep peraturan. "
+            },
+            "capital": {
+                "name": "Pasar modal",
+                "para": "Pasar modal mengenali dan mengarahkan dana ke ide dan perusahaan terbaik. "
+            },
+            "construction": {
+                "name": "Konstruksi",
+                "para": "Melihat kedua segmen tersebut secara lebih rinci, aktivitas perumahan tetap kuat meskipun harga material meningkat dan penyebaran virus corona varian Delta. "
+            },
+            "chemical": {
+                "name": "Kimia dan Proses",
+                "para": "Industri bahan kimia global adalah bagian yang kompleks dan penting dari perekonomian global dan jaringan rantai pasokan. "
+            },
+            "consumer": {
+                "name": "Barang konsumsi",
+                "para": "Pasar barang konsumen dan FMCG terus beradaptasi dengan permintaan dan tren konsumen yang terus berkembang. "
+            },
+            "energy": {
+                "name": "Energi dan Utilitas",
+                "para": "Negara-negara kaya minyak di Kawasan Timur Tengah sudah lama terbiasa dengan listrik murah. "
+            },
+            "fmcg": {
+                "name": "FMCG",
+                "para": "Produk FMCG di pedesaan India menyumbang hingga setengah dari total pengeluaran beberapa komunitas. "
+            },
+            "Food": {
+                "name": "Makanan dan minuman",
+                "para": "Perusahaan makanan dan minuman menyaksikan pertumbuhan pesat sebagai akibat dari meningkatnya permintaan minuman dan produk makanan. "
+            },
+            "healthCare": {
+                "name": "Kesehatan",
+                "para": "Tren dalam layanan kesehatan bukanlah fenomena baru karena industri layanan kesehatan berkonsolidasi dengan pesat seiring dengan kemajuan teknologi baru. "
+            },
+            "industrial": {
+                "name": "Manufaktur Industri",
+                "para": "Perusahaan harus fokus pada retensi karyawan untuk memenuhi permintaan output meskipun jumlah angkatan kerja menurun. "
+            },
+            "insurance": {
+                "name": "Pertanggungan",
+                "para": "Ekonomi digital akan menjadikan produk gaya hidup asuransi berbasis penggunaan, on-demand dan 'all-in-one' menjadi lebih relevan. "
+            },
+            "life": {
+                "name": "Ilmu Hayati",
+                "para": "Organisasi ilmu hayati dengan cepat menerapkan analitik tingkat lanjut dalam berbagai fungsi mereka seperti Rantai Pasokan, R"
+            },
+            "manufacture": {
+                "name": "Industri manufaktur",
+                "para": "Pabrikan akan mendapatkan keuntungan dari produksi yang lebih cepat dan lebih murah berkat pencetakan 3D. "
+            },
+            "media": {
+                "name": "Media dan Hiburan",
+                "para": "Media global"
+            },
+            "mining": {
+                "name": "Pertambangan",
+                "para": "Permintaan sebagian besar mineral diperkirakan akan tinggi untuk mencapai transisi energi. "
+            },
+            "oil": {
+                "name": "Minyak dan gas",
+                "para": "Saat kita memasuki tahun 2022, banyak Minyak dan gas (O"
+            },
+            "public": {
+                "name": "Sektor publik",
+                "para": "Sektor publik semakin fokus pada kedaulatan cloud. "
+            },
+            "Retail": {
+                "name": "Pengecer",
+                "para": "Melihat ke depan. "
+            },
+            "telecom": {
+                "name": "Telekomunikasi",
+                "para": "Sektor telekomunikasi terus mencapai kemajuan dalam meningkatkan kapasitas jaringannya dengan tambahan penerapan fiber dan nirkabel untuk memenuhi permintaan konstan akan jaringan berkecepatan lebih tinggi pada tahun 2021"
+            },
+            "travel": {
+                "name": "Bepergian",
+                "para": "Tren Pariwisata Umum Mendatang. "
+            },
+            "transport": {
+                "name": "Transportasi, Logistik",
+                "para": "Terkait mobil, kendaraan listrik (EV) tampaknya sedang mencapai titik kritis. "
+            }
+        },
+        "brands": {
+            "business": "BISNIS",
+            "digital": "DIGITAL",
+            "technology": "TEKNOLOGI",
+            "solution": "SOLUSI",
+            "finance": "KEUANGAN",
+            "consultancy": "KONSULTASI",
+            "studios": "STUDIOS",
+            "advertise": "IKLAN",
+            "space": "RUANG ANGKASA",
+            "design": "DESAIN",
+            "prints": "CETAK",
+            "accounting": "AKUNTANSI",
+            "legal": "HUKUM",
+            "supplies": "PERSEDIAAN",
+            "academy": "AKADEMI",
+            "overseas": "LUAR NEGERI"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "LAYANAN BISNIS",
+            "titleDesc": "Layanan bisnis yang dapat memenuhi segala kebutuhan layanan konsultasi bisnis. ",
+            "our": "KITA",
+            "message": "PESAN",
+            "messageContent": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis dan quasi lagu arsitek beatae can vitae dicta sunt explicabo. ",
+            "leading": "TERKEMUKA",
+            "theWay": "JALAN",
+            "businessConsult": "Konsultasi Bisnis",
+            "businessConsultDesc": "Di accusamus dignissimos qui blanditiis praesentiumcorrupti molestiaskecualiuricupiditate provident",
+            "brandMarketting": "merek",
+            "brandMarketingDesc": "Di accusamus dignissimos qui blanditiis praesentiumcorrupti molestiaskecualiuricupiditate provident",
+            "movieAnalysis": "Analisis Film",
+            "movieAnalysisDesc": "Di accusamus dignissimos qui blanditiis praesentiumcorrupti molestiaskecualiuricupiditate provident",
+            "successOn": "KESUKSESAN YANG DIAKUI PADA",
+            "severalContinet": "BEBERAPA BENUA",
+            "successDesc": "Perangkat lunak kami membantu perusahaan dari semua ukuran dan industri untuk mengoptimalkan visibilitas mereka di seluruh saluran utama dan membuat konten menarik bagi penggunanya, dan hal ini dibuktikan dengan pengakuan oleh pengguna kami sebagai perangkat lunak SEO terbaik di sejumlah penghargaan internasional",
+            "bookConsult": "Pesan Konsultasi untuk Merevolusi Operasi Anda",
+            "contactus": "Hubungi kami"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "MULTIDIMENSI",
+            "title2": "MEREK DAN PEMASARAN",
+            "titleDesc": "Sebagai pemilik bisnis atau calon pemasar, penting bagi Anda untuk memahami branding dan pemasaran, secara konseptual dan taktis, sehingga Anda dapat melakukan keduanya secara efektif. ",
+            "whatIs": "APA",
+            "branding": "MEREK",
+            "brandingAns1": "Branding adalah siapa Anda, identitas dan karakter bisnis Anda, sedangkan pemasaran adalah cara Anda membangun kesadaran merek. ",
+            "brandingAns2": "Untuk menentukan identitas merek Anda, Anda perlu bertanya pada diri sendiri beberapa pertanyaan. ",
+            "brandingAns3": "Investasikan waktu Anda dalam memberikan jawaban terperinci, dan sampaikan kepada kolega dan mentor profesional Anda. ",
+            "marketing": "PEMASARAN",
+            "marketingAns1": "Pemasaran adalah metode, alat, dan taktik yang digunakan bisnis Anda untuk mengomunikasikan identitas dan pesan merek Anda serta untuk mendorong minat, keterlibatan, dan pada akhirnya, penjualan pelanggan. ",
+            "marketingAns2": "Pemasaran adalah payung yang luas, menggabungkan beberapa alat, taktik, dan suasana, bergantung pada audiens dan momennya",
+            "marketingAns3": "Pemasaran bisa menyentuh hati, lucu, atau serius. ",
+            "buildingthe": "MEMBANGUN",
+            "strategy": "STRATEGI",
+            "research": "Riset",
+            "researchDesc": "Di accusamus dignissimos qui blanditiis praesentium korupti molestias kecuali",
+            "goals": "Tujuan dan sasaran",
+            "goalsDesc": "Di accusamus dignissimos qui blanditiis praesentium korupti molestias kecuali"
+        }
+    }
+}

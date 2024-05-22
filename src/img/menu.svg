@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.18" x2="0.88" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9bfffc"/>
+      <stop offset="1" stop-color="#069fce"/>
+    </linearGradient>
+    <filter id="Rectangle_1934" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#069fce" flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="menu" transform="translate(-15 -59)">
+    <g transform="matrix(1, 0, 0, 1, 15, 59)" filter="url(#Rectangle_1934)">
+      <g id="Rectangle_1934-2" data-name="Rectangle 1934" transform="translate(9 8)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)">
+        <rect width="36" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="35" height="35" rx="17.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1588" data-name="Group 1588" transform="translate(34 78.998)">
+      <rect id="Rectangle_1935" data-name="Rectangle 1935" width="12" height="2" rx="1" transform="translate(2)" fill="#fff"/>
+      <rect id="Rectangle_1936" data-name="Rectangle 1936" width="18" height="2" rx="1" transform="translate(-1 5.116)" fill="#fff"/>
+      <rect id="Rectangle_1937" data-name="Rectangle 1937" width="12" height="2" rx="1" transform="translate(2 10.231)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

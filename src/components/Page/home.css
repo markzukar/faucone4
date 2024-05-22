@@ -1,0 +1,36 @@
+/* 
+*/
+@media screen and (max-width: 799px)  {
+    .res_left_bg_img_1st_section{
+        background-image: url('../../img/banner_left.svg');
+        background-size:  50% 100%;
+        
+    }
+    
+    .res_right_bg_img_1st_section{
+        background-image: url('../../img/banner_right.svg');
+    } 
+
+}
+
+@media screen and (min-width: 800px)  {
+   
+    .res_left_bg_img_1st_section{
+        background-image: none;
+    }
+    
+    .res_right_bg_img_1st_section{
+        background-image: none;
+    }
+
+    .bg_img_1st_section{
+        background-image: url('../../img/banner.png');
+    }
+
+  }
+
+  .bg_map{
+    background-image: url('../../img/bg_map.svg');
+
+  }
+ 

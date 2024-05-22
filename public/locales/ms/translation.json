@@ -1,0 +1,287 @@
+{
+    "mainHeader": {
+        "company": "Syarikat",
+        "industries": {
+            "name": "industri",
+            "aero": "Aeroangkasa dan Pertahanan",
+            "aviation": "Penerbangan",
+            "automotive": "Automotif",
+            "bankFinance": "Perbankan",
+            "capital": "Pasaran Modal",
+            "construction": "Pembinaan",
+            "chemical": "bahan kimia",
+            "consumer": "Barangan Pengguna",
+            "energy": "Tenaga",
+            "fmcg": "FMCG",
+            "food": "Makanan",
+            "health": "Penjagaan kesihatan",
+            "industrial": "Pembuatan Perindustrian",
+            "insurance": "Insurans",
+            "lifeScience": "Kehidupan Sains",
+            "manufacture": "Industri Pembuatan",
+            "media": "Media",
+            "mining": "perlombongan",
+            "oil": "Minyak",
+            "public": "Sektor awam",
+            "retail": "Runcit",
+            "telecom": "Telekom",
+            "travel": "Perjalanan",
+            "transport": "Pengangkutan, Logistik"
+        },
+        "ourBrands": {
+            "name": "Jenama Kami",
+            "Business": "Perniagaan",
+            "Digital": "digital",
+            "Technologies": "Teknologi",
+            "Solutions": "Penyelesaian",
+            "Finance": "Kewangan",
+            "Consultancy": "Perundingan",
+            "Studios": "Studio",
+            "Advertising": "Mengiklankan",
+            "Space": "Angkasa",
+            "Design": "Reka bentuk",
+            "Prints": "Cetakan",
+            "Accounting": "Perakaunan",
+            "Legal": "sah",
+            "Supplies": "Bekalan",
+            "Academy": "Akademi",
+            "Overseas": "Luar negara"
+        },
+        "services": {
+            "name": "Perkhidmatan",
+            "multi": "Penjenamaan Pelbagai Dimensi",
+            "advertise": "Penyelesaian Pengiklanan 360 darjah",
+            "brand": "Transformasi Jenama",
+            "scaling": "Teknologi Penskalaan untuk Pembangunan",
+            "interlink": "Menghubungkaitkan Konsep Perniagaan",
+            "business": "1:1 Bimbingan Perniagaan",
+            "innovative": "Proses Keusahawanan Inovatif",
+            "quality": "Melaksanakan Proses Perniagaan Berkualiti",
+            "revenue": "Lox hasil",
+            "career": "Perancangan dan Pembangunan Kerjaya",
+            "startup": "Startup Investor Connect",
+            "hybird": "Membangunkan Model Kerja Hibrid"
+        },
+        "insights": "Pandangan",
+        "contactUs": "Hubungi Kami"
+    },
+    "home": {
+        "power": "MEMPERKUASA",
+        "brand": "JENAMA",
+        "create": "MENCIPTA",
+        "enterpernur": "USAHAWAN",
+        "sub_content": "Misi Faucone adalah untuk mencipta usahawan, jenama berkuasa, dan membina masa depan yang bermakna melalui idea-idea maju",
+        "vision": "Visi kami",
+        "vision_desc": "Visi kami adalah untuk mencipta jenama. ",
+        "mision": "Misi kita",
+        "mision_desc": "Misi kami adalah untuk mencipta usahawan, kuasa jenama dan membina masa depan yang bermakna melalui idea termaju",
+        "ourValues": "Nilai kami",
+        "value1": "Keterbatasan",
+        "value2": "berakhlak mulia",
+        "value3": "Syukur",
+        "goal": "Matlamat Kami",
+        "goal_desc": "Matlamat kami adalah untuk mencipta dan membangunkan 100000 pemilik perniagaan dan jenama yang berjaya melalui Teknologi dan inovasi dalam tempoh 10 tahun akan datang",
+        "motto": "Motto kami",
+        "motto_desc": "Kami mengendalikan perniagaan pelanggan kami seolah-olah mereka milik kami sendiri",
+        "our": "KAMI",
+        "to": "KEPADA",
+        "the": "THE",
+        "contribution": "SUMBANGAN",
+        "Socity": "MASYARAKAT",
+        "women_empower": "Pemerkasaan Wanita",
+        "women_empower_desc1": "Akses kepada internet, membolehkan wanita menerima latihan yang membuka pintu kepada kemahiran penting lain",
+        "women_empower_desc2": "Pelaburan yang menghasilkan pelbagai manfaat yang memberi kesan bukan sahaja kepada wanita tetapi juga keluarga dan komuniti mereka secara keseluruhan",
+        "women_empower_desc3": "Libatkan wanita untuk mencipta perniagaan mereka sendiri, yang akan memberi manfaat kepada kedua-dua negara membangun dari segi kewangan",
+        "startup_ecoSystem": "Pemacu Ekosistem Permulaan",
+        "startup_ecoSystem_desc": "Ekosistem permulaan ialah koleksi individu, syarikat dan organisasi berkaitan yang bekerjasama untuk membina dan menskalakan permulaan. ",
+        "women_enterpernership": "Keusahawanan Wanita",
+        "women_enterpernership_desc": "Peningkatan kehadiran wanita sebagai usahawan telah membawa kepada pertumbuhan perniagaan dan ekonomi yang ketara di negara ini. ",
+        "gig_economy": "Membangunkan Ekonomi Gig",
+        "gig_economy_desc": "GIG Economy - Tenaga kerja gig India, dianggarkan berjumlah 77 lakh pada 2020-2021, dijangka meningkat 2.35 crore menjelang 2029-30. ",
+        "socity1": "Penjenamaan dan Pemasaran Pelbagai Dimensi",
+        "socity2": "Menghubungkaitkan Konsep Perniagaan",
+        "socity3": "Hasil 10X",
+        "socity4": "360. Penyelesaian Pengiklanan",
+        "socity5": "1:1 Bimbingan Perniagaan",
+        "socity6": "Perancangan dan Pembangunan Kerjaya",
+        "socity7": "Transformasi Jenama",
+        "socity8": "Proses Keusahawanan Inovatif",
+        "socity9": "Startup Investor Connect",
+        "socity10": "Teknologi Scaling untuk Pembangunan",
+        "socity11": "Melaksanakan Proses Perniagaan Berkualiti",
+        "socity12": "Membangunkan Model Kerja Hibrid",
+        "popular": "POPULAR",
+        "events": "PERISTIWA",
+        "multiDimension": "Penjenamaan dan Pemasaran Pelbagai Dimensi",
+        "saturday": "Sabtu - 6:00 petang",
+        "location": "Restoran Po'ina",
+        "abby": "Abbey Chun",
+        "followers": "26 pengikut",
+        "letsWork": "MARI BEKERJA",
+        "together": "BERSAMA",
+        "overcomeYourChallenges": "Lihat bagaimana kami boleh membantu untuk mengatasi cabaran anda",
+        "globe_heading": "16 PENYELESAIAN 1 JENAMA",
+        "industriesWeServe": {
+            "name": "INDUSTRI KAMI BERKHIDMAT",
+            "aeroSpace": {
+                "name": "Aeroangkasa dan Pertahanan",
+                "pagragraph": "Peningkatan permintaan untuk segmen pesawat komersial. "
+            },
+            "aviation": {
+                "name": "Penerbangan",
+                "para1": "Penerbangan sudah dikenali sebagai penggerak pembangunan dan inovasi teknologi global",
+                "para2": "Pelaburan besar dalam Kecerdasan Buatan (A1) dan Data Besar boleh dilihat sebagai cara yang menjanjikan untuk meningkatkan keselamatan, kecekapan dan kemampanan. "
+            },
+            "automotive": {
+                "name": "Automotif",
+                "para": "Kadar perjalanan udara yang semakin meningkat, terutamanya dalam ekonomi sedang pesat membangun di Amerika Utara dan Amerika Latin. "
+            },
+            "banking": {
+                "name": "Perbankan",
+                "para": "Data yang diterima melalui pelbagai pulangan berkanun dalam RBI digunakan terutamanya untuk penggubalan dasar monetari dan preskripsi kawal selia. "
+            },
+            "capital": {
+                "name": "Pasaran Modal",
+                "para": "Pasaran modal mengiktiraf dan memacu dana kepada idea dan perusahaan terbaik. "
+            },
+            "construction": {
+                "name": "Pembinaan",
+                "para": "Melihat kepada dua segmen dengan lebih terperinci, aktiviti kediaman terus kekal kukuh walaupun harga bahan meningkat dan penyebaran varian coronavirus Delta. "
+            },
+            "chemical": {
+                "name": "Kimia dan Proses",
+                "para": "Industri kimia global adalah bahagian yang kompleks dan penting dalam ekonomi global dan rangkaian rantaian bekalan. "
+            },
+            "consumer": {
+                "name": "Barangan Pengguna",
+                "para": "Pasaran barangan pengguna dan FMCG sentiasa menyesuaikan diri dengan permintaan dan trend pengguna yang berkembang. "
+            },
+            "energy": {
+                "name": "Tenaga dan Utiliti",
+                "para": "Negara-negara kaya minyak di Wilayah Timur Tengah telah lama digunakan untuk elektrik murah. "
+            },
+            "fmcg": {
+                "name": "FMCG",
+                "para": "Produk FMCG di luar bandar India menyumbang sehingga separuh daripada jumlah perbelanjaan bagi sesetengah komuniti. "
+            },
+            "Food": {
+                "name": "Makanan dan minuman",
+                "para": "Syarikat makanan dan minuman menyaksikan pertumbuhan pesat hasil daripada peningkatan permintaan untuk minuman, produk makanan. "
+            },
+            "healthCare": {
+                "name": "Penjagaan kesihatan",
+                "para": "Trend dalam penjagaan kesihatan bukanlah satu fenomena baharu kerana industri penjagaan kesihatan sedang menyatu dengan pesat dengan kemajuan teknologi baharu. "
+            },
+            "industrial": {
+                "name": "Pembuatan Perindustrian",
+                "para": "Syarikat perlu memberi tumpuan kepada pengekalan pekerja untuk bersaing dengan permintaan dalam output walaupun tenaga buruh berkurangan. "
+            },
+            "insurance": {
+                "name": "Insurans",
+                "para": "Ekonomi digital akan menjadikan produk gaya hidup insurans berasaskan penggunaan, atas permintaan dan • 'semua-dalam-satu' lebih relevan. "
+            },
+            "life": {
+                "name": "Kehidupan Sains",
+                "para": "Organisasi sains hayat sedang melaksanakan analisis lanjutan dengan pantas dalam pelbagai fungsi mereka seperti Rantaian bekalan, R"
+            },
+            "manufacture": {
+                "name": "Industri Pembuatan",
+                "para": "Pengeluar akan mendapat manfaat daripada pengeluaran yang lebih pantas dan lebih murah hasil daripada percetakan 3D. "
+            },
+            "media": {
+                "name": "Media dan Hiburan",
+                "para": "Media global"
+            },
+            "mining": {
+                "name": "perlombongan",
+                "para": "Permintaan untuk kebanyakan mineral diunjurkan tinggi untuk mencapai peralihan tenaga. "
+            },
+            "oil": {
+                "name": "Minyak dan gas",
+                "para": "Semasa kita melangkah ke 2022. banyak Minyak dan gas (O"
+            },
+            "public": {
+                "name": "Sektor awam",
+                "para": "Sektor awam semakin tertumpu kepada kedaulatan awan. "
+            },
+            "Retail": {
+                "name": "Runcit",
+                "para": "Memandang ke hadapan. "
+            },
+            "telecom": {
+                "name": "Telekom",
+                "para": "Sektor telekomunikasi terus membuat kemajuan dalam menambah kapasiti rangkaiannya dengan penggunaan gentian dan wayarles tambahan untuk memenuhi permintaan berterusan untuk rangkaian berkelajuan tinggi pada tahun 2021"
+            },
+            "travel": {
+                "name": "Perjalanan",
+                "para": "Trend Pelancongan Akan Datang Umum. "
+            },
+            "transport": {
+                "name": "Pengangkutan, Logistik",
+                "para": "Apabila bercakap mengenai kereta, kenderaan elektrik (EV) nampaknya mencapai titik kritis. "
+            }
+        },
+        "brands": {
+            "business": "PERNIAGAAN",
+            "digital": "DIGITAL",
+            "technology": "TEKNOLOGI",
+            "solution": "PENYELESAIAN",
+            "finance": "KEWANGAN",
+            "consultancy": "PERUNDING",
+            "studios": "STUDIOS",
+            "advertise": "MENGIKLANKAN",
+            "space": "RUANG",
+            "design": "REKA BENTUK",
+            "prints": "CETAKAN",
+            "accounting": "PERAKAUNAN",
+            "legal": "SAH",
+            "supplies": "BEKALAN",
+            "academy": "AKADEMI",
+            "overseas": "LUAR NEGARA"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "PERKHIDMATAN PERNIAGAAN",
+            "titleDesc": "Perkhidmatan perniagaan yang dapat memenuhi semua keperluan perkhidmatan perundingan perniagaan. ",
+            "our": "KAMI",
+            "message": "MESEJ",
+            "messageContent": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis and quasi songs architecto beatae could vitae dicta sunt explicabo. ",
+            "leading": "MENGETUAI",
+            "theWay": "JALAN",
+            "businessConsult": "Perundingan Perniagaan",
+            "businessConsultDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "brandMarketting": "Penjenamaan",
+            "brandMarketingDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "movieAnalysis": "Analisis Filem",
+            "movieAnalysisDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "successOn": "KEJAYAAN DIIKTIRAF PADA",
+            "severalContinet": "BEBERAPA BENUA",
+            "successDesc": "Perisian kami membantu syarikat dari semua saiz dan industri untuk mengoptimumkan keterlihatan mereka merentas saluran utama dan mencipta kandungan yang menarik untuk pengguna mereka, dan ia dibuktikan dengan pengiktirafan oleh pengguna kami sebagai perisian SEO terbaik di beberapa anugerah antarabangsa",
+            "bookConsult": "Tempah Perundingan untuk Merevolusikan Operasi Anda",
+            "contactus": "Hubungi Kami"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "PELBAGAI DIMENSI",
+            "title2": "PENJENAMAAN DAN PEMASARAN",
+            "titleDesc": "Sebagai pemilik perniagaan atau calon pemasar, adalah penting untuk anda memahami penjenamaan dan pemasaran, secara konsep dan taktikal, supaya anda boleh melakukan kedua-duanya dengan berkesan. ",
+            "whatIs": "APA ITU",
+            "branding": "PENJENAMAAN",
+            "brandingAns1": "Penjenamaan ialah siapa anda, identiti dan watak perniagaan anda, manakala pemasaran ialah cara anda membina kesedaran jenama. ",
+            "brandingAns2": "Untuk menentukan identiti jenama anda, anda perlu bertanya kepada diri sendiri beberapa soalan. ",
+            "brandingAns3": "Laburkan masa anda dalam memberikan jawapan terperinci, dan bangkitkannya daripada rakan sekerja dan mentor profesional anda. ",
+            "marketing": "PEMASARAN",
+            "marketingAns1": "Pemasaran ialah kaedah, alatan dan taktik yang digunakan oleh perniagaan anda untuk menyampaikan identiti dan mesej jenama anda dan untuk mendorong minat pelanggan, penglibatan dan akhirnya, jualan. ",
+            "marketingAns2": "Pemasaran adalah payung yang luas, menggabungkan beberapa alat, taktik dan getaran, bergantung pada penonton dan masa",
+            "marketingAns3": "Pemasaran boleh bersifat ikhlas, lucu atau serius. ",
+            "buildingthe": "MEMBINA",
+            "strategy": "STRATEGI",
+            "research": "Penyelidikan",
+            "researchDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi",
+            "goals": "Matlamat dan objektif",
+            "goalsDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi"
+        }
+    }
+}

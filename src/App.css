@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Poppins&display=swap');
+
+
+@font-face {
+  font-family: 'PuviExtraBold';
+  src: url('font/Zoho\ Puvi\ Extrabold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PuviMedium';
+  src: url('font/Zoho\ Puvi\ Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body{
+  font-family: "Poppins", sans-serif !important;
+} */
+
+p {
+  margin-bottom: 0 !important;
+
+}
+
+
+/* language  */
+.ReactFlagsSelect-module_label__27pw9 {
+  display: none;
+
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+  border: none !important;
+  padding: 1px !important;
+}
+
+@media screen and (min-width: 1000px) {
+  .ReactFlagsSelect-module_label__27pw9 {
+    display: block;
+    font-size: 14px !important;
+  }
+}
+
+/*accordion  */
+.accordion-button:not(.collapsed) {
+  background-color: white !important;
+}
+
+.accordion-button {
+  border: none !important;
+}
+
+/* footer page - create line after word */
+.vertical_line {
+  border-right: 2px solid rgb(28, 11, 83);
+  height: 16px;
+  display: flex;
+  align-items: center;
+}

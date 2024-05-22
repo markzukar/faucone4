@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.carousel-container {
+    width: 100%;
+}
+
+[dir="rtl"] .carousel-container {
+    direction: ltr;
+}

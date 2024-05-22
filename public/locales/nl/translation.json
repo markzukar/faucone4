@@ -1,0 +1,287 @@
+{
+    "mainHeader": {
+        "company": "Bedrijf",
+        "industries": {
+            "name": "Industrieën",
+            "aero": "Lucht- en ruimtevaart en defensie",
+            "aviation": "Luchtvaart",
+            "automotive": "Automobiel",
+            "bankFinance": "Bankieren",
+            "capital": "Kapitaalmarkten",
+            "construction": "Bouw",
+            "chemical": "Chemisch",
+            "consumer": "Consumentengoederen",
+            "energy": "Energie",
+            "fmcg": "FMCG",
+            "food": "Voedsel",
+            "health": "Gezondheidszorg",
+            "industrial": "Industriële fabricage",
+            "insurance": "Verzekering",
+            "lifeScience": "Levenswetenschappen",
+            "manufacture": "Verwerkende industrieën",
+            "media": "Media",
+            "mining": "Mijnbouw",
+            "oil": "Olie",
+            "public": "Publieke sector",
+            "retail": "Detailhandel",
+            "telecom": "Telecom",
+            "travel": "Reis",
+            "transport": "Transport, logistiek"
+        },
+        "ourBrands": {
+            "name": "Onze merken",
+            "Business": "Bedrijf",
+            "Digital": "Digitaal",
+            "Technologies": "Technologieën",
+            "Solutions": "Oplossingen",
+            "Finance": "Financiën",
+            "Consultancy": "Advies",
+            "Studios": "Studio's",
+            "Advertising": "Reclame",
+            "Space": "Ruimte",
+            "Design": "Ontwerp",
+            "Prints": "Afdrukken",
+            "Accounting": "Boekhouding",
+            "Legal": "Legaal",
+            "Supplies": "Benodigdheden",
+            "Academy": "Academie",
+            "Overseas": "Overzee"
+        },
+        "services": {
+            "name": "Diensten",
+            "multi": "Multidimensionale branding",
+            "advertise": "360 graden advertentieoplossingen",
+            "brand": "Merktransformatie",
+            "scaling": "Schaaltechnologie voor ontwikkeling",
+            "interlink": "Onderling verbonden bedrijfsconcept",
+            "business": "1:1 Zakelijke coaching",
+            "innovative": "Innovatief ondernemerschapsproces",
+            "quality": "Implementatie van een kwalitatief bedrijfsproces",
+            "revenue": "Inkomsten lo",
+            "career": "Carrièreplanning en -ontwikkeling",
+            "startup": "Startende Investeerder Connect",
+            "hybird": "Een hybride werkmodel ontwikkelen"
+        },
+        "insights": "Inzichten",
+        "contactUs": "Neem contact met ons op"
+    },
+    "home": {
+        "power": "VOEDING",
+        "brand": "MERKEN",
+        "create": "CREËREN",
+        "enterpernur": "ONDERNEMERS",
+        "sub_content": "De missie van Faucone is het creëren van ondernemers, het versterken van merken en het opbouwen van een betekenisvolle toekomst door middel van geavanceerde ideeën",
+        "vision": "Onze visie",
+        "vision_desc": "Onze visie is het creëren van merken. ",
+        "mision": "Onze missie",
+        "mision_desc": "Onze missie is het creëren van ondernemers, het versterken van merken en het opbouwen van een betekenisvolle toekomst door middel van geavanceerde ideeën",
+        "ourValues": "Onze waarden",
+        "value1": "Helderheid",
+        "value2": "Deugdzaam",
+        "value3": "Dankbaarheid",
+        "goal": "Ons doel",
+        "goal_desc": "Ons doel is om de komende 10 jaar 100.000 succesvolle ondernemers en merken te creëren en te ontwikkelen door middel van technologie en innovatie",
+        "motto": "Ons motto",
+        "motto_desc": "Wij runnen het bedrijf van onze klanten alsof het onze eigen bedrijven zijn",
+        "our": "ONS",
+        "to": "NAAR",
+        "the": "DE",
+        "contribution": "BIJDRAGE",
+        "Socity": "MAATSCHAPPIJ",
+        "women_empower": "Empowerment van vrouwen",
+        "women_empower_desc1": "Dankzij de toegang tot internet kunnen vrouwen training krijgen die de deur opent naar andere essentiële vaardigheden",
+        "women_empower_desc2": "Een investering die een reeks voordelen oplevert die niet alleen vrouwen treffen, maar ook hun families en gemeenschappen als geheel",
+        "women_empower_desc3": "Moedig vrouwen aan om hun eigen bedrijven op te richten, wat beide ontwikkelingslanden financieel ten goede zou komen",
+        "startup_ecoSystem": "Aanjagers van het startup-ecosysteem",
+        "startup_ecoSystem_desc": "Het startup-ecosysteem is een verzameling individuen, bedrijven en geassocieerde organisaties die samenwerken om startups te bouwen en op te schalen. ",
+        "women_enterpernership": "Vrouwen ondernemerschap",
+        "women_enterpernership_desc": "De toenemende aanwezigheid van vrouwen als ondernemers heeft geleid tot aanzienlijke zakelijke en economische groei in het land. ",
+        "gig_economy": "Het ontwikkelen van een gig-economie",
+        "gig_economy_desc": "GIG-economie - Het Indiase gig-personeelsbestand, geschat op 77 lakh in 2020-2021, zal naar verwachting tegen 2029-2030 met 2,35 crore stijgen. ",
+        "socity1": "Multidimensionale branding en marketing",
+        "socity2": "Onderling verbonden bedrijfsconcept",
+        "socity3": "Opbrengst 10x",
+        "socity4": "360. Advertentieoplossingen",
+        "socity5": "1:1 Bedrijfscoaching",
+        "socity6": "Carrièreplanning en -ontwikkeling",
+        "socity7": "Merktransformatie",
+        "socity8": "Innovatief ondernemerschapsproces",
+        "socity9": "Startende Investeerder Connect",
+        "socity10": "Scaling-technologie voor ontwikkeling",
+        "socity11": "Implementatie van een kwalitatief bedrijfsproces",
+        "socity12": "Een hybride werkmodel ontwikkelen",
+        "popular": "POPULAIR",
+        "events": "EVENEMENTEN",
+        "multiDimension": "Multidimensionale branding en marketing",
+        "saturday": "Zaterdag - 18.00 uur",
+        "location": "Po'ina-restaurant",
+        "abby": "Abdij Chun",
+        "followers": "26 volgers",
+        "letsWork": "LATEN WE WERKEN",
+        "together": "SAMEN",
+        "overcomeYourChallenges": "Ontdek hoe wij u kunnen helpen uw uitdagingen te overwinnen",
+        "globe_heading": "16 OPLOSSINGEN 1 MERK",
+        "industriesWeServe": {
+            "name": "INDUSTRIEËN DIE WIJ DIENEN",
+            "aeroSpace": {
+                "name": "Lucht- en ruimtevaart en defensie",
+                "pagragraph": "Toenemende vraag naar het commerciële vliegtuigsegment. "
+            },
+            "aviation": {
+                "name": "Luchtvaart",
+                "para1": "De luchtvaart staat al bekend als een drijvende kracht achter de mondiale technologische ontwikkeling en innovaties",
+                "para2": "De enorme investeringen in kunstmatige intelligentie (A1) en big data kunnen worden gezien als een veelbelovende manier om de veiligheid, efficiëntie en duurzaamheid te vergroten. "
+            },
+            "automotive": {
+                "name": "Automobiel",
+                "para": "De stijgende tarieven voor vliegreizen, vooral in de opkomende economieën van Noord-Amerika en Latijns-Amerika. "
+            },
+            "banking": {
+                "name": "Bankieren",
+                "para": "De gegevens die via verschillende wettelijke rendementen in RBI worden ontvangen, worden voornamelijk gebruikt voor het formuleren van monetair beleid en regelgevingsvoorschriften. "
+            },
+            "capital": {
+                "name": "Kapitaalmarkten",
+                "para": "De kapitaalmarkt herkent en stuurt fondsen naar het beste idee en ondernemingen. "
+            },
+            "construction": {
+                "name": "Bouw",
+                "para": "Als we de twee segmenten nader bekijken, bleven de residentiële activiteiten sterk ondanks stijgende materiaalprijzen en de verspreiding van de coronavirus Delta-variant. "
+            },
+            "chemical": {
+                "name": "Chemisch en proces",
+                "para": "De mondiale chemische industrie is een complex en belangrijk onderdeel van de wereldeconomie en het netwerk van de toeleveringsketen. "
+            },
+            "consumer": {
+                "name": "Consumentengoederen",
+                "para": "De markt voor consumptiegoederen en FMCG past zich voortdurend aan aan de veranderende vraag en trends van de consument. "
+            },
+            "energy": {
+                "name": "Energie en nutsvoorzieningen",
+                "para": "De olierijke landen in het Midden-Oosten zijn al lang gewend aan goedkope elektriciteit. "
+            },
+            "fmcg": {
+                "name": "FMCG",
+                "para": "FMCG-producten op het Indiase platteland zijn goed voor de helft van alle totale uitgaven van sommige gemeenschappen. "
+            },
+            "Food": {
+                "name": "Eten en drinken",
+                "para": "Voedings- en drankenbedrijven zijn getuige van een snelle groei als gevolg van de stijgende vraag naar dranken en voedingsproducten. "
+            },
+            "healthCare": {
+                "name": "Gezondheidszorg",
+                "para": "Trends in de gezondheidszorg zijn geen nieuw fenomeen, aangezien de gezondheidszorgsector snel consolideert met nieuwe technologische ontwikkelingen. "
+            },
+            "industrial": {
+                "name": "Industriële fabricage",
+                "para": "Bedrijven zullen zich moeten concentreren op het behouden van werknemers om aan de vraag naar productie te kunnen voldoen, ondanks een afnemende beroepsbevolking. "
+            },
+            "insurance": {
+                "name": "Verzekering",
+                "para": "De digitale economie zal op gebruik gebaseerde, on-demand en 'alles-in-één' verzekeringslevensstijlproducten relevanter maken. "
+            },
+            "life": {
+                "name": "Levenswetenschappen",
+                "para": "Life science-organisaties implementeren in snel tempo geavanceerde analyses in hun verschillende functionaliteiten, zoals Supply Chain, R"
+            },
+            "manufacture": {
+                "name": "Verwerkende industrieën",
+                "para": "Fabrikanten zullen profiteren van snellere, goedkopere producties als gevolg van 3D-printen. "
+            },
+            "media": {
+                "name": "Media en entertainment",
+                "para": "De mondiale media"
+            },
+            "mining": {
+                "name": "Mijnbouw",
+                "para": "De verwachting is dat de vraag naar de meeste mineralen hoog zal zijn om de energietransitie te kunnen verwezenlijken. "
+            },
+            "oil": {
+                "name": "Olie en gas",
+                "para": "Nu we 2022 binnengaan, zullen veel olie- en gasbronnen (O"
+            },
+            "public": {
+                "name": "Publieke sector",
+                "para": "De publieke sector richt zich steeds meer op cloudsoevereiniteit. "
+            },
+            "Retail": {
+                "name": "Detailhandel",
+                "para": "Vooruit kijken. "
+            },
+            "telecom": {
+                "name": "Telecom",
+                "para": "De telecomsector bleef vooruitgang boeken bij het vergroten van de netwerkcapaciteit met extra glasvezel- en draadloze implementaties om te voldoen aan de constante vraag naar snellere netwerken in 2021"
+            },
+            "travel": {
+                "name": "Reis",
+                "para": "Algemene aankomende toeristische trends. "
+            },
+            "transport": {
+                "name": "Transport, logistiek",
+                "para": "Als het om auto’s gaat, lijken elektrische voertuigen (EV’s) een omslagpunt te bereiken. "
+            }
+        },
+        "brands": {
+            "business": "BEDRIJF",
+            "digital": "DIGITAAL",
+            "technology": "TECHNOLOGIEËN",
+            "solution": "OPLOSSINGEN",
+            "finance": "FINANCIËN",
+            "consultancy": "ADVIES",
+            "studios": "STUDIO'S",
+            "advertise": "RECLAME",
+            "space": "RUIMTE",
+            "design": "ONTWERP",
+            "prints": "AFDRUKKEN",
+            "accounting": "BOEKHOUDING",
+            "legal": "JURIDISCH",
+            "supplies": "BENODIGDHEDEN",
+            "academy": "ACADEMIE",
+            "overseas": "OVERZEES"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "ZAKELIJKE DIENST",
+            "titleDesc": "Zakelijke service die aan alle behoeften van zakelijke adviesdiensten kan voldoen. ",
+            "our": "ONS",
+            "message": "BERICHT",
+            "messageContent": "Als u doordringt dat er een fout is gemaakt, kunt u de hele tijd lovende kritieken uiten, maar u kunt ook een waarheid uitvinden en quasi-liederen die architecten kunnen schrijven, kunnen ze expliciet uitspreken. ",
+            "leading": "LEIDEND",
+            "theWay": "DE WEG",
+            "businessConsult": "Bedrijfsconsulting",
+            "businessConsultDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias exceptionuricupiditate provident",
+            "brandMarketting": "Branding",
+            "brandMarketingDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias exceptionuricupiditate provident",
+            "movieAnalysis": "Filmanalyse",
+            "movieAnalysisDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias exceptionuricupiditate provident",
+            "successOn": "ERKEND SUCCES OP",
+            "severalContinet": "VERSCHILLENDE CONTINENTEN",
+            "successDesc": "Onze software helpt bedrijven van elke omvang en uit elke sector om hun zichtbaarheid via belangrijke kanalen te optimaliseren en boeiende inhoud voor hun gebruikers te creëren, en dit wordt bewezen door erkenning door onze gebruikers als de beste SEO-software bij een aantal internationale prijzen",
+            "bookConsult": "Boek een consultatie om uw activiteiten radicaal te veranderen",
+            "contactus": "Neem contact met ons op"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "MULTI-DIMENSIONAAL",
+            "title2": "BRANDING EN MARKETING",
+            "titleDesc": "Als bedrijfseigenaar of aspirant-marketeer is het essentieel dat u branding en marketing begrijpt, zowel conceptueel als tactisch, zodat u beide effectief kunt doen. ",
+            "whatIs": "WAT IS",
+            "branding": "BRANDING",
+            "brandingAns1": "Branding is wie u bent, de identiteit en het karakter van uw bedrijf, terwijl marketing de manier is waarop u merkbekendheid opbouwt. ",
+            "brandingAns2": "Om uw merkidentiteit te bepalen, moet u uzelf een aantal vragen stellen. ",
+            "brandingAns3": "Investeer uw tijd in het geven van gedetailleerde antwoorden en stuur deze door naar uw collega's en professionele mentoren. ",
+            "marketing": "MARKETING",
+            "marketingAns1": "Marketing zijn de methoden, hulpmiddelen en tactieken die uw bedrijf gebruikt om uw merkidentiteit en -boodschap over te brengen en om de interesse, betrokkenheid en uiteindelijk de verkoop van klanten te stimuleren. ",
+            "marketingAns2": "Marketing is een enorme paraplu, die verschillende tools, tactieken en vibes omvat, afhankelijk van het publiek en het moment",
+            "marketingAns3": "Marketing kan oprecht, grappig of serieus zijn. ",
+            "buildingthe": "BOUWEN VAN",
+            "strategy": "STRATEGIE",
+            "research": "Onderzoek",
+            "researchDesc": "Bij accusamus dignissimos qui blanditiis praesentium corrupti molestias exceptionuri",
+            "goals": "Doelen en doelstellingen",
+            "goalsDesc": "Bij accusamus dignissimos qui blanditiis praesentium corrupti molestias exceptionuri"
+        }
+    }
+}

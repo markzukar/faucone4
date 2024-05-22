@@ -1,0 +1,302 @@
+{
+    "mainHeader": {
+        "company": "Company",
+        "industries": {
+            "name": "Industries",
+            "aero": "Aerospace and Defence",
+            "aviation": "Aviation",
+            "automotive": "Automotive",
+            "bankFinance": "Banking & Finance",
+            "capital": "Capital Markets",
+            "construction": "Construction & Engineering",
+            "chemical": "Chemical & Process",
+            "consumer": "Consumer Goods",
+            "energy": "Energy & Utilities",
+            "fmcg": "FMCG",
+            "food": "Food & Beverage",
+            "health": "Healthcare",
+            "industrial": "Industrial Manufacturing",
+            "insurance": "Insurance",
+            "lifeScience": "Life Sciences",
+            "manufacture": "Manufacturing Industries",
+            "media": "Media & Entertainment",
+            "mining": "Mining & Natural Resources",
+            "oil": "Oil & Gas",
+            "public": "Public Sector",
+            "retail": "Retail",
+            "telecom": "Telecom",
+            "travel": "Travel",
+            "transport": "Transport, Logistics & Hospitality"
+        },
+        "ourBrands": {
+            "name": "Our Brands",
+            "Business": "Faucone Business",
+            "Digital": "Faucone Digital",
+            "Technologies": "Faucone Technologies",
+            "Solutions": "Faucone Solutions",
+            "Finance": "Faucone Finance",
+            "Consultancy": "Faucone Consultancy",
+            "Studios": "Faucone Studios",
+            "Advertising": "Faucone Advertising",
+            "Space": "Faucone Space",
+            "Design": "Faucone Design",
+            "Prints": "Faucone Prints",
+            "Accounting": "Faucone Accounting",
+            "Legal": "Faucone Legal",
+            "Supplies": "Faucone Supplies",
+            "Academy": "Faucone Academy",
+            "Overseas": "Faucone Overseas"
+        },
+        "services": {
+            "name": "Solutions",
+            "multi": "Multi-Dimensional Branding & Marketing",
+            "advertise": "360 degree Advertising Solutions",
+            "brand": "Brand Transformation",
+            "scaling": "Scaling Technology for Development",
+            "interlink": "Interlinking Business Concept",
+            "business": "1:1 Business Coaching",
+            "innovative": "Innovative Entrepreneurship Process",
+            "quality": "Implementing a Quality Business Process",
+            "revenue": "Revenue lox",
+            "career": "Career Planning and Development",
+            "startup": "Startup Investor Connect",
+            "hybird": "Developing a Hybrid Work Model"
+        },
+        "insights": "Insights",
+        "contactUs": "Contact Us",
+        "companySubMenu": {
+            "aboutUs": "About us",
+            "our_Story": "Our Story",
+            "clients": "Clients",
+            "press": "Press",
+            "events": "Events",
+            "career": "Career",
+            "startup": "Faucone for Startups",
+            "csc": "Faucone-CSC/CEC"
+        }
+    },
+    "home": {
+        "power": "POWERING",
+        "brand": "BRANDS",
+        "create": "CREATING",
+        "enterpernur": "ENTREPRENEURS",
+        "sub_content": "Faucone's mission is to create entrepreneurs, power brands, and build a meaningful future through advanced ideas",
+        "vision": "Our Vision",
+        "vision_desc": "Our vision is to create brands. business solution and training for entrepreneurs and businesses, so that they can expand their business to a higher level in the ever-changing business environment",
+        "mision": "Our Mission",
+        "mision_desc": "Our mission is to create entrepreneurs, power brands and build a meaningful future through advanced idea",
+        "ourValues": "Our Values",
+        "value1": "Limpidity",
+        "value2": "Virtuous",
+        "value3": "Gratitude",
+        "goal": "Our Goal",
+        "goal_desc": "Our goal is to create and develop 100000 successful business owners and brands through Technology and innovation by the next 10 years",
+        "motto": "Our Motto",
+        "motto_desc": "We operate our client's business as if they're our own",
+        "our": "OUR",
+        "to": "TO",
+        "the": "THE",
+        "contribution": "CONTRIBUTION",
+        "Socity": "SOCITY",
+        "women_empower": {
+            "name": "Women Empowerment",
+            "title1": "Digital literacy",
+            "title2": "Family and community impact",
+            "title3": "Economical Development"
+        },
+        "women_empower_desc1": "Access to internet, allows women to receive training which opens the door to other essential skills",
+        "women_empower_desc2": "An investment that yields a range of benefits that affect not just women but also their families and communities as a whole",
+        "women_empower_desc3": "Enccrage women to create their own businesses, which would benefits both developing countries financially",
+        "startup_ecoSystem": "Drivers of Startup Ecosystem",
+        "startup_ecoSystem_desc": "The startup ecosystem is a collection Of individuals, companies, and associated organisations that work together to build and scale startups. Startup ecosystems are frequently developed in a very small geographic region with a centre Of gravity. such as a university or a cluster Of technology enterprises. Faucone is a major player in the Startup Ecosystem",
+        "women_enterpernership": "Women Entreprenurship",
+        "women_enterpernership_desc": "The increasing presence of women as entrepreneurs has led to significant business and economic growth in the country. Women-owned business enterprises are playing a prominent role in society by generating employment opportunities in the country, brining in demographic shifts and inspiring the next generation of women founders",
+        "gig_economy": "Developing Gig Economy",
+        "gig_economy_desc": "GIG Economy - India's gig workforce, estimated to be at 77 lakh in 2020-2021, is a expected to go up 2.35 crore by 2029-30. Faucone supports and provides opportunities for GIG Economy",
+        "socity1": "Multi-Dimensional Branding and Marketing",
+        "socity2": "Interlinking Business Concept",
+        "socity3": "Revenue 10X",
+        "socity4": "360. Advertising Solutions",
+        "socity5": "1:1 Business Coaching",
+        "socity6": "Career Planning and Development",
+        "socity7": "Brand Transformation",
+        "socity8": "Innovative Entrepreneurship Process",
+        "socity9": "Startup Investor Connect",
+        "socity10": "Scalling Technology for Development",
+        "socity11": "Implementing a Quality Business Process",
+        "socity12": "Developing a Hybrid Work Model",
+        "popular": "POPULAR",
+        "events": "EVENTS",
+        "multiDimension": "Multi-Dimensional Branding and Marketing",
+        "saturday": "Saturday - 6:00 PM",
+        "location": "Po'ina Restaurant & Lounge",
+        "abby": "Abbey Chun & Heather Stoltz",
+        "followers": "26 followers",
+        "letsWork": "LET'S WORK",
+        "together": "TOGETHER",
+        "overcomeYourChallenges": "See how we can help to overcome your challenges",
+        "globe_heading": "16 SOLUTIONS 1 BRAND",
+        "industriesWeServe": {
+            "name": "INDUSTRIES WE SERVE",
+            "aeroSpace": {
+                "name": "Aerospace and Defense",
+                "pagragraph": "Increasing demand for the commercial aircraft segment. increasing cir travel rates. particular in the emerging economies of North America and Latin America and the rising disposable incomes around the world have been driving the growth Of commercial aircraft globally"
+            },
+            "aviation": {
+                "name": "Aviation",
+                "para1": "Aviation is already known as a driving force of global technology development and innovations",
+                "para2": "The vast investment in Artificial Intelligence (A1) and Big Data could be seen as a promising way of increasing safety, efficiency and sustainability. These technologies can help improve aviation infrastructure and airspace utilization"
+            },
+            "automotive": {
+                "name": "Automotive",
+                "para": "The increasing air travel rates, particularly in the emerging economies of North America and Latin America. and the rising disposable incomes around the world have been driving the growth of commercial aircraft globally"
+            },
+            "banking": {
+                "name": "Banking & Finance",
+                "para": "The Data received through various statutory returns in RBI are mainly used for monetary policy formulation and regulatory prescriptions. However the information based on a few returns is only disseminated to the public"
+            },
+            "capital": {
+                "name": "Capital Markets",
+                "para": "Capital market recognize and drive funds to the best idea and enterprises. Coupled with the free flow of capital, innovation is an integral component of iob creation, economic development and prosperity. Markets facilitate the transfer of funds from those Who seek a return on their assets to those who need ecpital to expand"
+            },
+            "construction": {
+                "name": "Construction & Engineering",
+                "para": "Looking into the two segments in more detail, residential activities continued to stay strong despite rising material prices and the spread of the coronavirus Delta variant. In contrast. nonresidential segment spending growth remained weak for much of 2021"
+            },
+            "chemical": {
+                "name": "Chemical and Process",
+                "para": "The global chemicals industry is a complex and important part of the global economy and supply chain network. The production of chemicals involves converting raw materials. metals. and so on, into tens of thousands of different products that are central to modern life as we know it"
+            },
+            "consumer": {
+                "name": "Consumer Goods",
+                "para": "The consumer goods and FMCG market continuously adapts to evolving consumer demand and trends. Digital innovation, the coronavirus pandemic and an increased focus on sustainable and healthy habits have been just some Of the biggest influences on the consumer goods market in recent years"
+            },
+            "energy": {
+                "name": "Energy and Utilities",
+                "para": "The oil-rich countries of Middle East Region have long been used to cheap electricity. but a need to face up to the challenges of climate change means that governments are having to rethink their approach to power generation"
+            },
+            "fmcg": {
+                "name": "FMCG",
+                "para": "FMCG products in rural India account for up to half of all the total spending for some communities. Semi-urban segments cre seeing double-digit growth in this area repetitively. The retail market is already valued at more than SI trillion, and it could end up being ten times that amount cs India moves toward becoming an economy on par with the global"
+            },
+            "Food": {
+                "name": "Food and Beverages",
+                "para": "Food and beverage companies are witnessing rapid growth as a result of rising demand for beverages, food products. dietary supplements. packaged ready-to-eat products, and pet food and feed"
+            },
+            "healthCare": {
+                "name": "Healthcare",
+                "para": "Trends in healthcare are not a new phenomenon as the healthcare industry is consolidating rapidly with new technological advancements. Consumers are becoming technology savvy and constantly looking for convenience"
+            },
+            "industrial": {
+                "name": "Industrial Manufacturing",
+                "para": "Companies will have to focus on employee retention to keep up with the demand in output despite a declining labor force. Supply chain disruptions will require workarounds and effective internal communication. Diversifying the workforce will be key to building resiliency"
+            },
+            "insurance": {
+                "name": "Insurance",
+                "para": "The digital economy will make usage-based, on-demand and • 'all-in-one' insurance lifestyle products more relevant. Customers will prefer personalized insurance covers instead of the one-size-fits-all products currently available"
+            },
+            "life": {
+                "name": "Life Sciences",
+                "para": "Life science organizations are rapidly implementing advanced analytics in their various functionalities such as supply Chain, R&D activities, clinical trial designing, regulatory compliance, sales and marketing and pharmacovigilance"
+            },
+            "manufacture": {
+                "name": "Manufacturing Industries",
+                "para": "Manufactures will benefit from faster, less expensive productions as a result of 3D printing. It makes rapid prototyping. which is a highly cost-effective way for product designers to test and troubleshoot their products, possible. In addition, it enables manufacturers to produce items on demand instead Of having to manufacture and warehouse them"
+            },
+            "media": {
+                "name": "Media and Enterainment",
+                "para": "The global media & entertainment storage market size was valued at $6.635.7 million in 2019. and is projected to reach $17,079.5 million by 2027, registering c CAGR Of 13.7% from 2020 to 2027. Digital storage plays a vital role across the professional medic & entertainment (M&E) industry"
+            },
+            "mining": {
+                "name": "Mining & Natural Resources",
+                "para": "Demand for most minerals is projected to be high in order to achieve the energy transition. While fossil fuels have helped to improve living standards around the world Since the 18th century, their associated greenhouse gas emissions have led to global warming"
+            },
+            "oil": {
+                "name": "Oil and Gas",
+                "para": "As we move into 2022. many Oil and gas (O&G) companies are looking to reinvent themselves by practicing capital discipline, focusing on financial health. committing to climate change, and transforming business models. The positivity of such changes is reflected in our survey, where nearly two- thirds if O&G executives state they're highly positive about strategic changes made by their organizations"
+            },
+            "public": {
+                "name": "Public Sector",
+                "para": "The public sector is increasingly focused on cloud sovereignty. This means working closely with service providers to ensure transparency, control, choice and autonomy over the strategic landscape and IT assets such as data, systems and critical software. Benefits include security. regulatory compliance and the building of trust with citizens and other stakeholders"
+            },
+            "Retail": {
+                "name": "Retail",
+                "para": "Looking ahead. the industry is expected to recover using the performance Of digital channels as the main driver. In a survey conducted by Mckinsey. 22% of executives say that digital channels Will be the biggest driver in the coming year. In addition, government interventions are expected to partially offset the economic impacts. and international tourism is expected to recover"
+            },
+            "telecom": {
+                "name": "Telecom",
+                "para": "The telecom sector continued to make progress in augmenting its network capacity with additional fiber and wireless deployments to meet the constant demand for higher-speed networks in 2021"
+            },
+            "travel": {
+                "name": "Travel",
+                "para": "General Upcoming Tourism Trends. There are variety Of tourism trends that are based on more general changes in consumer behavior, like the need for healthy and organic food & drinks, sustainability. personalized service the rising demand for digitalization and use of technology"
+            },
+            "transport": {
+                "name": "Transport, Logistics & Hospitality",
+                "para": "When it comes to cars, electric vehicles (EVs) appear to be reaching a tipping point. As Of 2020, EVs accounted for just b percent of global automotive sales. but that is projected to grow to 13 percent by 2025 and 22 percent by 2030"
+            }
+        },
+        "brands": {
+            "business": "BUSINESS",
+            "digital": "DIGITAL",
+            "technology": "TECHNOLOGIES",
+            "solution": "SOLUTIONS",
+            "finance": "FINANCE",
+            "consultancy": "CONSULTANCY",
+            "studios": "STUDIOS",
+            "advertise": "ADVERTISING",
+            "space": "SPACE",
+            "design": "DESIGN",
+            "prints": "PRINTS",
+            "accounting": "ACCOUNTING",
+            "legal": "LEGAL",
+            "supplies": "SUPPLIES",
+            "academy": "ACADEMY",
+            "overseas": "OVERSEAS"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "BUSINESS SERVICE",
+            "titleDesc": "Business service that can meet all the needs of business consulting service. Our business services are carefully designed to perfectly meet the needs of each business and brand",
+            "our": "OUR",
+            "message": "MESSAGE",
+            "messageContent": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi songs architecto beatae could vitae dicta sunt explicabo. Nemo change enim ipsam voluptatem",
+            "leading": "LEADING",
+            "theWay": "THE WAY",
+            "businessConsult": "Business Consulting",
+            "businessConsultDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "brandMarketting": "Branding & Marketing Strategy",
+            "brandMarketingDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "movieAnalysis": "Movie Analysis",
+            "movieAnalysisDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "successOn": "RECOGNISED SUCCESS ON",
+            "severalContinet": "SEVERAL CONTINENTS",
+            "successDesc": "Our software helps companies of all sizes and industries to optimize their visibility across key channels and create engaging content for their users, and it's proved by recognition by our users as the best SEO software at a number of international awards",
+            "bookConsult": "Book a Consultation to Revolutionize Your Operations",
+            "contactus": "Contact Us"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "MULTI-DIMENSIONAL",
+            "title2": "BRANDING AND MARKETING",
+            "titleDesc": "As a business owner or aspiring marketer, it is essential that you understand branding and marketing, conceptually and tactically, so you can do both effectively. Let's take a look at each in turn, and how they differ",
+            "whatIs": "WHAT IS",
+            "branding": "BRANDING",
+            "brandingAns1": "Branding is who you are, the very identity and character of your business, while marketing is how you build brand awareness. Branding is your strategy, while marketing encompasses your tactical goals",
+            "brandingAns2": "In order to determine your brand identity, you need to ask yourself several questions. These questions go beyond industry cliches, and they are deeper than a mere description of your services or products",
+            "brandingAns3": "Invest your time in giving detailed answers, and bounce them off your colleagues and professional mentors. What you will notice is that all of the questions are related to your internal operations and culture. What you build on the inside is what will emanate externally as your brand",
+            "marketing": "MARKETING",
+            "marketingAns1": "Marketing is the methods, tools, and tactics your business uses to communicate your brand identity and message and to drive customer interest, engagement, and ultimately, sales. Marketing campaigns continually change and evolve based on a wide range of parameters, including consumer sentiment, the economy, competitors, and even seasonality. They are also targeted towards different segments Of your audience, all while supporting and reflecting the core values of your brand",
+            "marketingAns2": "Marketing is a vast umbrella, incorporating several tools, tactics, and vibes, depending on the audience and the moment",
+            "marketingAns3": "Marketing can be heartfelt, funny, or serious. It can be any mix of content, including text, keywords, images, videos, and memes",
+            "buildingthe": "BUILDING THE",
+            "strategy": "STRATEGY",
+            "research": "Research",
+            "researchDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi",
+            "goals": "Goals and objectives",
+            "goalsDesc": "At accusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi"
+        }
+    }
+}

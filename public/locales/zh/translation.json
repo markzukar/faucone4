@@ -1,0 +1,287 @@
+{
+    "mainHeader": {
+        "company": "公司",
+        "industries": {
+            "name": "行业",
+            "aero": "航空航天和国防",
+            "aviation": "航空",
+            "automotive": "汽车",
+            "bankFinance": "银行业 & 金融",
+            "capital": "资本市场",
+            "construction": "建造 & 工程",
+            "chemical": "化学 & 过程",
+            "consumer": "消费品",
+            "energy": "活力 & 公用事业",
+            "fmcg": "FMCG",
+            "food": "食物 & 饮料",
+            "health": "卫生保健",
+            "industrial": "工业制造",
+            "insurance": "保险",
+            "lifeScience": "生命科学",
+            "manufacture": "制造业",
+            "media": "媒体 & 娱乐",
+            "mining": "矿业 & 自然资源",
+            "oil": "油 & 气体",
+            "public": "公共部门",
+            "retail": "零售",
+            "telecom": "电信",
+            "travel": "旅行",
+            "transport": "运输, 后勤 & 款待"
+        },
+        "ourBrands": {
+            "name": "我们的品牌",
+            "Business": "商业",
+            "Digital": "数字的",
+            "Technologies": "技术",
+            "Solutions": "解决方案",
+            "Finance": "金融",
+            "Consultancy": "咨询服务",
+            "Studios": "工作室",
+            "Advertising": "广告",
+            "Space": "空间",
+            "Design": "设计",
+            "Prints": "印刷",
+            "Accounting": "会计",
+            "Legal": "合法的",
+            "Supplies": "补给品",
+            "Academy": "学院",
+            "Overseas": "海外"
+        },
+        "services": {
+            "name": "服务",
+            "multi": "多维品牌 & 营销",
+            "advertise": "360 学位广告解决方案",
+            "brand": "品牌转型",
+            "scaling": "扩展技术促进发展",
+            "interlink": "互联的经营理念",
+            "business": "1:1 商务辅导",
+            "innovative": "创新创业流程",
+            "quality": "实施质量业务流程",
+            "revenue": "收入水平",
+            "career": "职业规划与发展",
+            "startup": "初创企业投资者连接",
+            "hybird": "开发混合工作模式"
+        },
+        "insights": "见解",
+        "contactUs": "联系我们"
+    },
+    "home": {
+        "power": "供电",
+        "brand": "品牌",
+        "create": "创造",
+        "enterpernur": "企业家",
+        "sub_content": "Faucone的使命是通过先进的理念创造企业家、力量品牌、构建有意义的未来",
+        "vision": "我们的愿景",
+        "vision_desc": "我们的愿景是创造品牌。为企业家和企业提供商业解决方案和培训，使他们能够在不断变化的商业环境中将业务拓展到更高的水平",
+        "mision": "我们的任务",
+        "mision_desc": "我们的使命是通过先进的理念创造企业家、力量品牌、建设有意义的未来",
+        "ourValues": "我们的价值",
+        "value1": "清澈度",
+        "value2": "有德行",
+        "value3": "感激",
+        "goal": "我们的目标",
+        "goal_desc": "我们的目标是在未来10年通过技术和创新创建和发展100000个成功的企业主和品牌",
+        "motto": "我们的座右铭",
+        "motto_desc": "我们像经营我们自己的业务一样经营客户的业务",
+        "our": "我们的",
+        "to": "到",
+        "the": "这",
+        "contribution": "贡献",
+        "Socity": "社会",
+        "women_empower": "赋予妇女权力",
+        "women_empower_desc1": "接入互联网使女性能够接受培训，从而为掌握其他基本技能打开了大门",
+        "women_empower_desc2": "这项投资可以带来一系列好处，不仅影响女性，还影响她们的家庭和整个社区",
+        "women_empower_desc3": "鼓励妇女创办自己的企业，这将使发展中国家在经济上受益",
+        "startup_ecoSystem": "初创企业生态系统的驱动因素",
+        "startup_ecoSystem_desc": "初创企业生态系统是个人、公司和相关组织的集合，他们共同努力建立和扩展初创企业。初创生态系统通常是在一个具有重心的非常小的地理区域内开发的。例如一所大学或一群科技企业。 Faucone 是初创企业生态系统的主要参与者",
+        "women_enterpernership": "女性创业",
+        "women_enterpernership_desc": "越来越多的女性企业家带动了该国商业和经济的显着增长。女性拥有的商业企业在社会中发挥着重要作用，为国家创造就业机会，带来人口变化并激励下一代女性创始人",
+        "gig_economy": "发展零工经济",
+        "gig_economy_desc": "零工经济——2020-2021 年印度的零工劳动力预计为 770 万人，预计到 2029-30 年将增加 23.5 千万卢比。 Faucone 支持零工经济并提供机会",
+        "socity1": "多维品牌和营销",
+        "socity2": "多维品牌和营销",
+        "socity3": "收入 10X",
+        "socity4": "360. 广告解决方案",
+        "socity5": "1:1 商务辅导",
+        "socity6": "职业规划与发展",
+        "socity7": "品牌转型",
+        "socity8": "创新创业流程",
+        "socity9": "初创企业投资者连接",
+        "socity10": "扩展技术促进发展",
+        "socity11": "实施质量业务流程",
+        "socity12": "开发混合工作模式",
+        "popular": "受欢迎的",
+        "events": "活动",
+        "multiDimension": "多维品牌和营销",
+        "saturday": "周六 - 6:00 PM",
+        "location": "Po'ina 餐厅及酒廊",
+        "abby": "艾比·春 & 希瑟·斯托尔兹",
+        "followers": "26 followers",
+        "letsWork": "开始工作吧",
+        "together": "一起",
+        "overcomeYourChallenges": "了解我们如何帮助您克服挑战",
+        "globe_heading": "16 个解决方案 1 个品牌",
+        "industriesWeServe": {
+            "name": "我们服务的行业",
+            "aeroSpace": {
+                "name": "航天 和 防御",
+                "pagragraph": "商用飞机领域的需求不断增加。提高 CIR 旅行费率。特别是北美和拉丁美洲的新兴经济体以及全球可支配收入的不断增长一直推动着全球商用飞机的增长"
+            },
+            "aviation": {
+                "name": "航空",
+                "para1": "航空业已被认为是全球技术发展和创新的驱动力",
+                "para2": "对人工智能（A1）和大数据的大量投资可以被视为提高安全性、效率和可持续性的一种有前途的方式。这些技术有助于改善航空基础设施和空域利用率"
+            },
+            "automotive": {
+                "name": "汽车",
+                "para": "航空旅行率不断上升，特别是在北美和拉丁美洲的新兴经济体。全球可支配收入的不断增长推动了全球商用飞机的增长"
+            },
+            "banking": {
+                "name": "银行与金融",
+                "para": "通过印度储备银行各种法定回报获得的数据主要用于货币政策制定和监管处方。然而，基于少数回报的信息仅向公众传播"
+            },
+            "capital": {
+                "name": "资本市场",
+                "para": "资本市场认可并推动资金流向最好的创意和企业。加上资本的自由流动，创新是创造就业机会、经济发展和繁荣的重要组成部分。市场促进资金从那些寻求资产回报的人转移到那些需要资本扩张的人"
+            },
+            "construction": {
+                "name": "建造 & 工程",
+                "para": "更详细地研究这两个细分市场，尽管材料价格上涨和冠状病毒 Delta 变种的传播，住宅活动仍然保持强劲。相比之下。 2021 年大部分时间非住宅部门支出增长依然疲软"
+            },
+            "chemical": {
+                "name": "化学 和 过程",
+                "para": "全球化学工业是全球经济和供应链网络的复杂而重要的组成部分。化学品的生产涉及原材料的转化。金属。以及更多，进入我们所知的现代生活核心的数以万计的不同产品"
+            },
+            "consumer": {
+                "name": "消费品",
+                "para": "消费品和快速消费品市场不断适应不断变化的消费者需求和趋势。数字创新、冠状病毒大流行以及对可持续和健康习惯的日益关注只是近年来对消费品市场影响最大的一些因素"
+            },
+            "energy": {
+                "name": "活力 和 公用事业",
+                "para": "中东地区石油资源丰富的国家早已习惯了廉价电力。但需要面对气候变化的挑战意味着各国政府必须重新考虑其发电方法"
+            },
+            "fmcg": {
+                "name": "FMCG",
+                "para": "FMCG 印度农村地区的产品占一些社区总支出的一半。城乡结合部地区不断出现两位数的增长。零售市场的价值已经超过万亿SI，随着印度迈向与全球经济相当的经济体，零售市场的价值最终可能是这个数字的十倍。"
+            },
+            "Food": {
+                "name": "食物 和 饮料",
+                "para": "由于对饮料、食品的需求不断增长，食品和饮料公司正在快速增长。膳食补充剂。包装即食产品以及宠物食品和饲料"
+            },
+            "healthCare": {
+                "name": "卫生保健",
+                "para": "医疗保健的趋势并不是一个新现象，因为医疗保健行业正在随着新技术的进步而迅速整合。消费者越来越精通技术并不断寻求便利"
+            },
+            "industrial": {
+                "name": "工业制造",
+                "para": "尽管劳动力下降，公司仍必须注重留住员工，以满足产出需求。供应链中断需要解决方法和有效的内部沟通。劳动力多元化将是增强韧性的关键"
+            },
+            "insurance": {
+                "name": "保险",
+                "para": "• 数字经济将使基于使用的、按需的、“一体化”的保险生活方式产品变得更加重要。客户将更喜欢个性化的保险，而不是目前可用的一刀切的产品"
+            },
+            "life": {
+                "name": "生命科学",
+                "para": "生命科学组织正在其各种功能中快速实施高级分析，例如供应链、研发活动、临床试验设计、法规遵从性、销售和营销以及药物警戒"
+            },
+            "manufacture": {
+                "name": "制造业",
+                "para": "制造商将受益于 3D 打印带来的更快、更便宜的生产。它可以快速制作原型。对于产品设计师来说，这是一种非常经济有效的方式来测试和排除其产品的故障。此外，它使制造商能够按需生产物品，而不必制造和仓储它们"
+            },
+            "media": {
+                "name": "媒体 和 娱乐",
+                "para": "2019 年，全球媒体和娱乐存储市场规模为 663.57 万美元。预计到 2027 年将达到 170.795 亿美元，2020 年至 2027 年复合年增长率为 13.7%。数字存储在专业医疗和娱乐领域发挥着至关重要的作用。娱乐（机电）行业"
+            },
+            "mining": {
+                "name": "矿业 & 自然资源",
+                "para": "为了实现能源转型，预计对大多数矿物的需求将会很高。尽管自 18 世纪以来化石燃料帮助提高了世界各地的生活水平，但其相关的温室气体排放导致了全球变暖"
+            },
+            "oil": {
+                "name": "油 和 气体",
+                "para": "进入 2022 年，许多石油和天然气 (O&G) 公司正在寻求通过实践资本纪律、关注财务健康来重塑自身。致力于应对气候变化并转变商业模式。我们的调查反映了此类变革的积极性，近三分之二的油气高管表示他们对其组织做出的战略变革非常积极"
+            },
+            "public": {
+                "name": "公共部门",
+                "para": "公共部门越来越关注云主权。这意味着与服务提供商密切合作，确保对战略环境和 IT 资产（例如数据、系统和关键软件）的透明度、控制、选择和自主权。好处包括安全性。遵守法规并与公民和其他利益相关者建立信任"
+            },
+            "Retail": {
+                "name": "零售",
+                "para": "展望未来。预计行业复苏将以数字渠道的表现为主要驱动力。麦肯锡进行的一项调查显示。 22%的高管表示，数字渠道将成为来年最大的推动力。此外，政府干预预计将部分抵消经济影响。国际旅游业有望复苏"
+            },
+            "telecom": {
+                "name": "电信",
+                "para": "电信行业通过增加光纤和无线部署，在增强网络容量方面继续取得进展，以满足 2021 年对更高速网络的持续需求"
+            },
+            "travel": {
+                "name": "旅行",
+                "para": "即将到来的总体旅游趋势。有多种旅游趋势基于消费者行为的更普遍的变化，例如对健康和有机食品和饮料的需求以及可持续性。个性化服务对数字化和技术使用不断增长的需求"
+            },
+            "transport": {
+                "name": "运输, 后勤 & 款待",
+                "para": "就汽车而言，电动汽车 (EV) 似乎已达到一个临界点。截至 2020 年，电动汽车仅占全球汽车销量的 %。但预计到 2025 年这一比例将增至 13%，到 2030 年将增至 22%"
+            }
+        },
+        "brands": {
+            "business": "商业",
+            "digital": "数字的",
+            "technology": "技术",
+            "solution": "解决方案",
+            "finance": "金融",
+            "consultancy": "顾问服务",
+            "studios": "工作室",
+            "advertise": "广告",
+            "space": "空间",
+            "design": "设计",
+            "prints": "印刷",
+            "accounting": "会计",
+            "legal": "合法的",
+            "supplies": "补给品",
+            "academy": "学院",
+            "overseas": "海外"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "商业服务",
+            "titleDesc": "商务服务，可以满足商务咨询服务的所有需求。",
+            "our": "我们的",
+            "message": "信息",
+            "messageContent": "Sed ut perspiciatis undeOmnis iste natus error sat voluptatemaccusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illoinvente veritatis et quasiongongs architetobeatae can vitae dicta sunt explicabo. ",
+            "leading": "领导",
+            "theWay": "道路",
+            "businessConsult": "商业咨询",
+            "businessConsultDesc": "At Accusamus dignissimos qui blanditiis praesentium Corroti Moldestias excepturicupiditate Provident",
+            "brandMarketting": "品牌推广",
+            "brandMarketingDesc": "At Accusamus dignissimos qui blanditiis praesentium Corroti Moldestias excepturicupiditate Provident",
+            "movieAnalysis": "电影分析",
+            "movieAnalysisDesc": "At Accusamus dignissimos qui blanditiis praesentium Corroti Moldestias excepturicupiditate Provident",
+            "successOn": "公认的成功",
+            "severalContinet": "几大洲",
+            "successDesc": "我们的软件帮助各种规模和行业的公司优化关键渠道的可见性，并为用户创建引人入胜的内容，我们的用户在多项国际奖项中被评为最佳 SEO 软件，这证明了这一点",
+            "bookConsult": "预约咨询以彻底改变您的运营",
+            "contactus": "联系我们"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "多维",
+            "title2": "品牌与营销",
+            "titleDesc": "作为企业主或有抱负的营销人员，从概念和战术上了解品牌和营销至关重要，这样您才能有效地做到这两点。",
+            "whatIs": "什么是",
+            "branding": "品牌推广",
+            "brandingAns1": "品牌是你是谁，是你的企业的身份和特征，而营销是你建立品牌知名度的方式。",
+            "brandingAns2": "为了确定您的品牌形象，您需要问自己几个问题。",
+            "brandingAns3": "花时间给出详细的答案，并向你的同事和专业导师反馈。",
+            "marketing": "营销",
+            "marketingAns1": "营销是您的企业用来传达品牌形象和信息并提高客户兴趣、参与度并最终提高销售的方法、工具和策略。",
+            "marketingAns2": "营销是一把巨大的保护伞，结合了多种工具、策略和氛围，具体取决于受众和时机",
+            "marketingAns3": "营销可以是真诚的、有趣的或严肃的。",
+            "buildingthe": "建设",
+            "strategy": "战略",
+            "research": "研究",
+            "researchDesc": "At Accusamus dignissimos qui blanditiis praesentium Corroti Molestias excepturi",
+            "goals": "目的和目标",
+            "goalsDesc": "At Accusamus dignissimos qui blanditiis praesentium Corroti Molestias excepturi"
+        }
+    }
+}

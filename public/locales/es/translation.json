@@ -1,0 +1,287 @@
+{
+    "mainHeader": {
+        "company": "Compañía",
+        "industries": {
+            "name": "Industrias",
+            "aero": "Aeroespacial y Defensa",
+            "aviation": "Aviación",
+            "automotive": "Automotor",
+            "bankFinance": "Bancario",
+            "capital": "Los mercados de capitales",
+            "construction": "Construcción",
+            "chemical": "Químico",
+            "consumer": "Bienes de consumo",
+            "energy": "Energía",
+            "fmcg": "bienes de consumo",
+            "food": "Alimento",
+            "health": "Cuidado de la salud",
+            "industrial": "Manufactura industrial",
+            "insurance": "Seguro",
+            "lifeScience": "Ciencias de la vida",
+            "manufacture": "Industrias manufactureras",
+            "media": "Medios de comunicación",
+            "mining": "Minería",
+            "oil": "Aceite",
+            "public": "Sector público",
+            "retail": "Minorista",
+            "telecom": "telecomunicaciones",
+            "travel": "Viajar",
+            "transport": "Transporte, Logística"
+        },
+        "ourBrands": {
+            "name": "Nuestras marcas",
+            "Business": "Negocio",
+            "Digital": "Digital",
+            "Technologies": "Tecnologías",
+            "Solutions": "Soluciones",
+            "Finance": "Finanzas",
+            "Consultancy": "Consultoría",
+            "Studios": "Estudios",
+            "Advertising": "Publicidad",
+            "Space": "Espacio",
+            "Design": "Diseño",
+            "Prints": "Huellas dactilares",
+            "Accounting": "Contabilidad",
+            "Legal": "Legal",
+            "Supplies": "Suministros",
+            "Academy": "Academia",
+            "Overseas": "Exterior"
+        },
+        "services": {
+            "name": "Servicios",
+            "multi": "Marca multidimensional",
+            "advertise": "Soluciones publicitarias de 360 ​​grados",
+            "brand": "Transformación de marca",
+            "scaling": "Escalando la tecnología para el desarrollo",
+            "interlink": "Concepto de negocio interconectado",
+            "business": "Entrenamiento empresarial 1:1",
+            "innovative": "Proceso de emprendimiento innovador",
+            "quality": "Implementación de un proceso empresarial de calidad",
+            "revenue": "salmón de ingresos",
+            "career": "Planificación y desarrollo profesional",
+            "startup": "Conexión de inversores emergentes",
+            "hybird": "Desarrollar un modelo de trabajo híbrido"
+        },
+        "insights": "Perspectivas",
+        "contactUs": "Contáctenos"
+    },
+    "home": {
+        "power": "ALIMENTACIÓN",
+        "brand": "MARCAS",
+        "create": "CREANDO",
+        "enterpernur": "EMPRENDEDORES",
+        "sub_content": "La misión de Faucone es crear emprendedores, impulsar marcas y construir un futuro significativo a través de ideas avanzadas.",
+        "vision": "Nuestra visión",
+        "vision_desc": "Nuestra visión es crear marcas. ",
+        "mision": "Nuestra misión",
+        "mision_desc": "Nuestra misión es crear emprendedores, impulsar marcas y construir un futuro significativo a través de ideas avanzadas.",
+        "ourValues": "Nuestros valores",
+        "value1": "limpidez",
+        "value2": "Virtuoso",
+        "value3": "Gratitud",
+        "goal": "Nuestra meta",
+        "goal_desc": "Nuestro objetivo es crear y desarrollar 100.000 propietarios de empresas y marcas exitosas a través de la tecnología y la innovación en los próximos 10 años.",
+        "motto": "Nuestro lema",
+        "motto_desc": "Operamos el negocio de nuestros clientes como si fuera el nuestro.",
+        "our": "NUESTRO",
+        "to": "A",
+        "the": "EL",
+        "contribution": "CONTRIBUCIÓN",
+        "Socity": "SOCIEDAD",
+        "women_empower": "Empoderamiento de las mujeres",
+        "women_empower_desc1": "El acceso a Internet permite a las mujeres recibir una formación que les abre la puerta a otras habilidades esenciales",
+        "women_empower_desc2": "Una inversión que genera una serie de beneficios que afectan no sólo a las mujeres sino también a sus familias y comunidades en su conjunto.",
+        "women_empower_desc3": "Incentivar a las mujeres a crear sus propios negocios, lo que beneficiaría financieramente a ambos países en desarrollo.",
+        "startup_ecoSystem": "Impulsores del ecosistema de startups",
+        "startup_ecoSystem_desc": "El ecosistema de startups es un conjunto de individuos, empresas y organizaciones asociadas que trabajan juntas para construir y escalar startups. ",
+        "women_enterpernership": "Emprendimiento de mujeres",
+        "women_enterpernership_desc": "La creciente presencia de mujeres como empresarias ha propiciado un importante crecimiento empresarial y económico en el país. ",
+        "gig_economy": "Desarrollar la economía de los conciertos",
+        "gig_economy_desc": "Economía GIG: se espera que la fuerza laboral de la India, estimada en 77 lakh en 2020-2021, aumente 2,35 millones de rupias para 2029-30. ",
+        "socity1": "Branding y marketing multidimensionales",
+        "socity2": "Concepto de negocio interconectado",
+        "socity3": "Ingresos 10 veces",
+        "socity4": "360. Soluciones Publicitarias",
+        "socity5": "Entrenamiento empresarial 1:1",
+        "socity6": "Planificación y desarrollo profesional",
+        "socity7": "Transformación de marca",
+        "socity8": "Proceso de emprendimiento innovador",
+        "socity9": "Conexión de inversores emergentes",
+        "socity10": "Ampliando la tecnología para el desarrollo",
+        "socity11": "Implementación de un proceso empresarial de calidad",
+        "socity12": "Desarrollar un modelo de trabajo híbrido",
+        "popular": "POPULAR",
+        "events": "EVENTOS",
+        "multiDimension": "Branding y marketing multidimensionales",
+        "saturday": "Sábado - 6:00 p.m.",
+        "location": "Restaurante Poina",
+        "abby": "Abadía Chun",
+        "followers": "26 seguidores",
+        "letsWork": "VAMOS A TRABAJAR",
+        "together": "JUNTOS",
+        "overcomeYourChallenges": "Vea cómo podemos ayudarle a superar sus desafíos",
+        "globe_heading": "16 SOLUCIONES 1 MARCA",
+        "industriesWeServe": {
+            "name": "INDUSTRIAS QUE SERVIMOS",
+            "aeroSpace": {
+                "name": "Aeroespacial y Defensa",
+                "pagragraph": "Creciente demanda para el segmento de aviones comerciales. "
+            },
+            "aviation": {
+                "name": "Aviación",
+                "para1": "La aviación ya es conocida como una fuerza impulsora del desarrollo tecnológico y las innovaciones globales.",
+                "para2": "La enorme inversión en Inteligencia Artificial (A1) y Big Data podría verse como una forma prometedora de aumentar la seguridad, la eficiencia y la sostenibilidad. "
+            },
+            "automotive": {
+                "name": "Automotor",
+                "para": "El aumento de las tarifas de los viajes aéreos, particularmente en las economías emergentes de América del Norte y América Latina. "
+            },
+            "banking": {
+                "name": "Bancario",
+                "para": "Los datos recibidos a través de diversas declaraciones legales del RBI se utilizan principalmente para la formulación de políticas monetarias y prescripciones regulatorias. "
+            },
+            "capital": {
+                "name": "Los mercados de capitales",
+                "para": "El mercado de capitales reconoce e impulsa fondos hacia las mejores ideas y empresas. "
+            },
+            "construction": {
+                "name": "Construcción",
+                "para": "Si analizamos los dos segmentos con más detalle, las actividades residenciales continuaron manteniéndose fuertes a pesar del aumento de los precios de los materiales y la propagación de la variante Delta del coronavirus. "
+            },
+            "chemical": {
+                "name": "Química y Proceso",
+                "para": "La industria química global es una parte compleja e importante de la economía global y de la red de la cadena de suministro. "
+            },
+            "consumer": {
+                "name": "Bienes de consumo",
+                "para": "El mercado de bienes de consumo y bienes de consumo se adapta continuamente a la evolución de la demanda y las tendencias de los consumidores. "
+            },
+            "energy": {
+                "name": "Energía y servicios Públicos",
+                "para": "Los países ricos en petróleo de la región de Medio Oriente están acostumbrados desde hace mucho tiempo a la electricidad barata. "
+            },
+            "fmcg": {
+                "name": "bienes de consumo",
+                "para": "Los productos de bienes de consumo en la India rural representan hasta la mitad de todo el gasto total de algunas comunidades. "
+            },
+            "Food": {
+                "name": "Comida y bebidas",
+                "para": "Las empresas de alimentos y bebidas están experimentando un rápido crecimiento como resultado de la creciente demanda de bebidas y productos alimenticios. "
+            },
+            "healthCare": {
+                "name": "Cuidado de la salud",
+                "para": "Las tendencias en la atención médica no son un fenómeno nuevo, ya que la industria de la salud se está consolidando rápidamente con nuevos avances tecnológicos. "
+            },
+            "industrial": {
+                "name": "Manufactura industrial",
+                "para": "Las empresas tendrán que centrarse en la retención de empleados para mantenerse al día con la demanda de producción a pesar de la disminución de la fuerza laboral. "
+            },
+            "insurance": {
+                "name": "Seguro",
+                "para": "La economía digital hará que los productos de seguros de estilo de vida basados ​​en el uso, bajo demanda y • “todo en uno” sean más relevantes. "
+            },
+            "life": {
+                "name": "Ciencias de la vida",
+                "para": "Las organizaciones de ciencias biológicas están implementando rápidamente análisis avanzados en sus diversas funcionalidades, como la cadena de suministro, R"
+            },
+            "manufacture": {
+                "name": "Industrias manufactureras",
+                "para": "Los fabricantes se beneficiarán de producciones más rápidas y menos costosas como resultado de la impresión 3D. "
+            },
+            "media": {
+                "name": "Medios y entretenimiento",
+                "para": "Los medios globales"
+            },
+            "mining": {
+                "name": "Minería",
+                "para": "Se prevé que la demanda de la mayoría de los minerales será alta para lograr la transición energética. "
+            },
+            "oil": {
+                "name": "Petróleo y gas",
+                "para": "A medida que avanzamos hacia 2022, muchos petróleo y gas (O"
+            },
+            "public": {
+                "name": "Sector público",
+                "para": "El sector público se centra cada vez más en la soberanía de la nube. "
+            },
+            "Retail": {
+                "name": "Minorista",
+                "para": "Mirando hacia el futuro. "
+            },
+            "telecom": {
+                "name": "telecomunicaciones",
+                "para": "El sector de las telecomunicaciones continuó avanzando en el aumento de la capacidad de su red con implementaciones adicionales de fibra e inalámbricas para satisfacer la demanda constante de redes de mayor velocidad en 2021."
+            },
+            "travel": {
+                "name": "Viajar",
+                "para": "Próximas tendencias turísticas generales. "
+            },
+            "transport": {
+                "name": "Transporte, Logística",
+                "para": "Cuando se trata de automóviles, los vehículos eléctricos (EV) parecen estar llegando a un punto de inflexión. "
+            }
+        },
+        "brands": {
+            "business": "NEGOCIO",
+            "digital": "DIGITAL",
+            "technology": "TECNOLOGÍAS",
+            "solution": "SOLUCIONES",
+            "finance": "FINANZAS",
+            "consultancy": "CONSULTORÍA",
+            "studios": "ESTUDIOS",
+            "advertise": "PUBLICIDAD",
+            "space": "ESPACIO",
+            "design": "DISEÑO",
+            "prints": "HUELLAS DACTILARES",
+            "accounting": "CONTABILIDAD",
+            "legal": "LEGAL",
+            "supplies": "SUMINISTROS",
+            "academy": "ACADEMIA",
+            "overseas": "EXTERIOR"
+        }
+    },
+    "OurBrands": {
+        "business": {
+            "title": "SERVICIO EMPRESARIAL",
+            "titleDesc": "Servicio empresarial que puede satisfacer todas las necesidades del servicio de consultoría empresarial. ",
+            "our": "NUESTRO",
+            "message": "MENSAJE",
+            "messageContent": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi song arquitecto beatae might vitae dicta sunt explicabo. ",
+            "leading": "PRINCIPAL",
+            "theWay": "EL CAMINO",
+            "businessConsult": "Consulta de trabajo",
+            "businessConsultDesc": "At acusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "brandMarketting": "Marca",
+            "brandMarketingDesc": "At acusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "movieAnalysis": "Análisis de películas",
+            "movieAnalysisDesc": "At acusamus dignissimos qui blanditiis praesentium corrupti molestias excepturicupiditate provident",
+            "successOn": "ÉXITO RECONOCIDO EN",
+            "severalContinet": "VARIOS CONTINENTES",
+            "successDesc": "Nuestro software ayuda a empresas de todos los tamaños e industrias a optimizar su visibilidad en canales clave y crear contenido atractivo para sus usuarios, y lo demuestra el reconocimiento de nuestros usuarios como el mejor software de SEO en varios premios internacionales.",
+            "bookConsult": "Reserve una consulta para revolucionar sus operaciones",
+            "contactus": "Contáctenos"
+        }
+    },
+    "services": {
+        "multiDimensinal": {
+            "title1": "MULTIDIMENSIONAL",
+            "title2": "MARCA Y MARKETING",
+            "titleDesc": "Como propietario de un negocio o aspirante a comercializador, es esencial que comprenda la marca y el marketing, conceptual y tácticamente, para poder hacer ambos de manera efectiva. ",
+            "whatIs": "QUÉ ES",
+            "branding": "MARCA",
+            "brandingAns1": "La marca es quién eres, la identidad misma y el carácter de tu negocio, mientras que el marketing es cómo creas conciencia de marca. ",
+            "brandingAns2": "Para determinar la identidad de su marca, debe plantearse varias preguntas. ",
+            "brandingAns3": "Invierte tu tiempo en dar respuestas detalladas y comunícalas con tus colegas y mentores profesionales. ",
+            "marketing": "MARKETING",
+            "marketingAns1": "El marketing son los métodos, herramientas y tácticas que utiliza su empresa para comunicar la identidad y el mensaje de su marca y generar el interés, el compromiso y, en última instancia, las ventas del cliente. ",
+            "marketingAns2": "El marketing es un amplio paraguas que incorpora varias herramientas, tácticas y vibraciones, según la audiencia y el momento.",
+            "marketingAns3": "El marketing puede ser sincero, divertido o serio. ",
+            "buildingthe": "CONSTRUYENDO EL",
+            "strategy": "ESTRATEGIA",
+            "research": "Investigación",
+            "researchDesc": "At acusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi",
+            "goals": "Metas y objetivos",
+            "goalsDesc": "At acusamus dignissimos qui blanditiis praesentium corrupti molestias excepturi"
+        }
+    }
+}
