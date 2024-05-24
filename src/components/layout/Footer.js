@@ -182,7 +182,7 @@ const Footer = () => {
                     <div className='tw-flex tw-items-center tw-gap-x-5'>
                         <img src={newTitle} alt="" className='tw-w-40' />
 
-                        <div className='tw-flex tw-items-center tw-gap-x-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xl'>
+                        <div className='tw-flex tw-items-center tw-gap-x-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xs'>
                             <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Security</p></a>
                             <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>IPR Complaints</p></a>
                             <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Anti-spam Policy</p></a>
