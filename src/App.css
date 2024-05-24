@@ -16,7 +16,19 @@
   font-style: normal;
 }
 
-;
+@font-face {
+  font-family: 'GoogleSans';
+  src: url('./font/ProductSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GoogleSansMedium';
+  src: url('./font/ProductSans-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 * {
   margin: 0;
@@ -67,4 +79,8 @@ p {
   height: 16px;
   display: flex;
   align-items: center;
+}
+
+li.react-multi-carousel-item.\[object.Object\] {
+  padding-right: 60px;
 }

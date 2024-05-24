@@ -43,15 +43,15 @@ const OurBrandServices = () => {
     };
     return (
         <>
-            <div className='tw-flex tw-justify-center tw-items-center tw-mt-32 tw-gap-x-3'>
+            <div className='tw-flex tw-justify-center tw-items-center tw-mt-20 tw-gap-x-3'>
                 <p className='tw-bg-[#2dbfea] tw-h-[2px] tw-w-14  tw-rounded-2xl '></p>
 
-                <p className='tw-text-[#2dbfea] tw-text-3xl tw-font-bold tw-text-center'>16 Solutions 1 Brand</p>
+                <p className='tw-text-[#2dbfea] tw-text-3xl tw-font-bold tw-text-center'><span className='tw-font-PuviExtraBold tw-text-5xl'>16</span> Solutions 1 Brand</p>
                 <p className='tw-bg-[#2dbfea] tw-h-[2px] tw-w-14  tw-rounded-2xl '></p>
             </div>
 
             {/* <main className='tw-grid tw-grid-cols-4 tw-gap-x-10 tw-w-[90%] tw-mx-auto tw-mt-10 '> */}
-            <div className='tw-p-10'>
+            <div className='tw-p-5 tw-ml-16 '>
                 <Carousel
                     responsive={responsive}
                     autoPlay={true}
@@ -60,122 +60,123 @@ const OurBrandServices = () => {
                     showDots={false}
                     infinite={true}
                     partialVisible={false}
+                    itemClass={{ "paddingRight": "40px" }}
                     dotListclassName="custom-dot-list-style"
                 >
-                    <section className='tw-shadow-xl tw-bg-[#dcf7ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#dcf7ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-pr-10 tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE BUSINESS</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Business Services can meet all the needs of business consulting services. Our business services are carefully designed to perfectly meet the needs of each business and brand</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
 
-                    <section className='tw-shadow-xl tw-bg-[#f2f2f2] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#f2f2f2] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE DIGITAL</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Digital offer a wide range of digital services and strategies to small, medium, and big organizations’, with the goal of increasing online and mobile presence, generating leads to extend your client base, and delivering substantial ROI and improved revenues</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
 
-                    <section className='tw-shadow-xl tw-bg-[#d6e8ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#ffe6e6] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE TECHNOLOGIES</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Technologies can help you to grow your business and it is committed to create engaging Digital Experience through Technology</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
 
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#d6f5d6] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE SOLUTIONS</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Solutions trust in providing value added and optimized IT and Software services to our customers and focus on quality, schedule and cost</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#f5edd6] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE FINANCE</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Finance understands that every business has unique financial needs. We are proud and working hard to provide business owners and entrepreneurs with the best financial solutions to ensure that they achieve their business goals</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#e0ebeb] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE CONSULTANCY</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Consultancy service is a leading consultancy agency in staffing and sourcing across various industries. We formulate our recruitment in a very crafted way, which would give you a specified as- surance, keeping in mind, all the requirements of your business, giving you the ultimate satisfaction. This is because, we understand how aggressive the market has evolved today</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#e6ccff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE STUDIO</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Studios Provides a wide range of Photography and video production services for al I Bra nds and Businesses</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#ffd6cc] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE ADVERTISING</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Advertising is a representat¡on of a 36o-degree marketing company which provides advertising and PR services. We have been able to create a network of the greatest media businesses of all sorts, allowing us to provide the best service at competitive costs to brands both locally and globally</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#f9ecf2] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE SPACE</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Office Space is the leading workspace provider. We've built an unparalleled network of office globally</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#e6e6ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE DESIGN</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Interior design provides the best interior solution to help you stand out, win customers and manage your brand</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#f2d9d9] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE PRINTS</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone prints is the one stop shop solution for all your Customized printing Needs. We deliver high-quality print services and ship across globally</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#e6ffee] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE ACCOUNTING</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Accounting offers a full range of services including accounting, financial,compliance, and IT audits, licenses, financial management, and audits</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#e6e6ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE LEGAL</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Legal provide complete legal solutions for corporates like legal drafting, cyber laws, labour law, corporate law, industrial dispute, commercial disputes, etc</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#d6e8ff] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE SUPPLIES</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone supplies provides the complete solution for all business essentials and industrial needs. We are one stop solution for all your office purchase needs. B2B Wholesale Online Shopping Store</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#f5d6d6] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE ACADEMY</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Academy provides you with high-quality training for Children, College Students, Working Professionals. Acquire the in-Demand Skill With Faucone Academy. Career Guidance & Support. Live Session with Trainers</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
-                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%]'>
+                    <section className='tw-shadow-xl tw-bg-[#eff2f7] tw-border-[8px] tw-py-10 tw-px-8 tw-border-white tw-rounded-2xl tw-h-[100%] tw-rounded-br-[100px]'>
                         {/* <img src={brand_service_6} alt="" /> */}
                         <p className='tw-font-bold tw-mt-3 tw-text-xl tw-font-PuviExtraBold'>FAUCONE OVERSEAS</p>
                         <p className='tw-mt-2 tw-text-base tw-font-PuviMedium'>Faucone Overseas provides complete business, study, and migration solutions  globally. we maintain an engaged and cooperative attitude with leading universities and professionals</p>
 
-                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Read more</button>
+                        <button className='tw-flex tw-bg-white tw-mt-5 tw-border-2 tw-text-sm tw-font-medium tw-px-4 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-rounded-md tw-duration-300'>Explore</button>
                     </section>
                 </Carousel>
                 {/* </main> */}

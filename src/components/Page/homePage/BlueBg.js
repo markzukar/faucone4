@@ -1,41 +1,79 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useEffect, useState } from 'react'
 import zoho_bg from '../../../img/zoho_bg.PNG'
+import $ from 'jquery';
 
 
 const BlueBg = () => {
+    const [isFirstTime, setIsFirstTime] = useState(false);
+
+    useEffect(() => {
+
+
+    }, [isFirstTime])
+
+    const Counterup = () => {
+        if (!isFirstTime) {
+            console.log("coming----------------->")
+            setIsFirstTime(true)
+            var options = {
+                useEasing: true,
+                useGrouping: true,
+                separator: ".",
+                decimal: ",",
+                suffix: ""
+            };
+
+            var demo = new window.CountUp("counter", 0, $("#counter").text(), 0, 5, options);
+            var demo1 = new window.CountUp("counter1", 0, $("#counter1").text(), 0, 5, options);
+            var demo2 = new window.CountUp("counter2", 0, $("#counter2").text(), 0, 2, options);
+            var demo3 = new window.CountUp("counter3", 0, $("#counter3").text(), 0, 10, options);
+            var demo4 = new window.CountUp("counter4", 0, $("#counter4").text(), 0, 2, options);
+            if (!demo.error) {
+                demo.start();
+                demo1.start();
+                demo2.start();
+                demo3.start();
+                demo4.start();
+            } else {
+                console.error(demo.error);
+            }
+        } else {
+            return;
+        }
+    }
     return (
         <>
             {/*  */}
-            <main className='tw-bg-[#0060b4] tw-text-white tw-py-16 md:tw-px-36 lg:tw-p-0 lg:tw-pt-24 lg:tw-flex tw-items-end'>
+            <main className='tw-bg-[#0060b4] tw-text-white tw-py-16 md:tw-px-36 lg:tw-p-0 lg:tw-pt-24 lg:tw-flex tw-items-end tw-rounded-3xl tw-border-solid tw-border-2 tw-mr-20 tw-ml-20 tw-mt-7' onMouseEnter={() => Counterup()}>
 
                 <section className='lg:tw-w-[70%] lg:tw-pl-20 lg:tw-pb-44 xl:tw-pl-36 tw-font-PuviMedium'>
-                    <p className='tw-text-center lg:tw-text-left tw-text-3xl lg:tw-font-bold lg:tw-text-6xl tw-font-medium'>Made for the <strong>Global</strong></p>
+                    <p className='tw-text-center lg:tw-text-left tw-text-3xl lg:tw-font-base lg:tw-text-6xl tw-font-medium'>Made for the <strong>Global</strong></p>
                     {/* <p className='tw-text-center lg:tw-text-left tw-text-3xl lg:tw-text-5xl tw-font-medium lg:tw-font-normal '>Made for the World.</p> */}
 
 
                     <div className='sm:tw-grid tw-grid-cols-2 sm:tw-mt-10 '>
                         <div className='tw-text-center tw-mt-14 sm:tw-mt-5 lg:tw-flex lg:tw-items-center '>
-                            <p className='tw-text-3xl lg:tw-text-left tw-font-medium tw-tracking-wide lg:tw-w-32 '>250+</p>
+                            <p className='tw-text-3xl lg:tw-text-left tw-font-medium tw-tracking-wide lg:tw-w-32 '><span id="counter">250</span>+</p>
                             <p className='  lg:tw-text-left lg:tw-border-b tw-font-bold'>Services</p>
                         </div>
 
                         <div className='tw-text-center lg:tw-text-left tw-mt-14 sm:tw-mt-5 lg:tw-flex lg:tw-items-center '>
-                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '>15+</p>
+                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '><span id="counter1">15</span>+</p>
                             <p className='  lg:tw-text-left lg:tw-border-b tw-font-bold'>Years in Business</p>
                         </div>
 
                         <div className='tw-text-center lg:tw-text-left tw-mt-14 sm:tw-mt-5 lg:tw-flex lg:tw-items-center '>
-                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '>12+</p>
+                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '><span id="counter2">12</span>+</p>
                             <p className='  lg:tw-text-left lg:tw-border-b tw-font-bold'>Countries Served</p>
                         </div>
 
                         <div className='tw-text-center lg:tw-text-left tw-mt-14 sm:tw-mt-5 lg:tw-flex lg:tw-items-center '>
-                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '>150+</p>
+                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '><span id="counter3">150</span>+</p>
                             <p className='  lg:tw-text-left lg:tw-border-b tw-font-bold'>Support Centers Globally</p>
                         </div>
 
                         <div className='tw-text-center lg:tw-text-left tw-mt-14 sm:tw-mt-5 lg:tw-flex lg:tw-items-center '>
-                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '>20+</p>
+                            <p className='tw-text-3xl tw-font-medium tw-tracking-wide lg:tw-w-32 '><span id="counter4">20</span>+</p>
                             <p className='  lg:tw-text-left lg:tw-border-b tw-font-bold'>Unique Solutions</p>
                         </div>
 
@@ -47,9 +85,9 @@ const BlueBg = () => {
                 </section>
 
 
-                <section className='md:tw-flex tw-justify-center tw-hidden lg:tw-inline  '>
+                {/* <section className='md:tw-flex tw-justify-center tw-hidden lg:tw-inline  '>
                     <img src={zoho_bg} alt="" className='tw-w-[70%] lg:tw-w-auto ' />
-                </section>
+                </section> */}
             </main>
         </>
     )
