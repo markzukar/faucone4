@@ -17,6 +17,7 @@ import BlueBg from './homePage/BlueBg';
 import Faucone4Startup from './homePage/Faucone4Startup';
 import CustomerSupport from './homePage/CustomerSupport';
 import NewHeader from '../layout/NewHeader';
+import ContributeToTheSocity2 from './homePage/ContributeToTheSocity2';
 
 
 const Home = () => {
@@ -37,7 +38,9 @@ const Home = () => {
 
             {/* <Faucone4Startup /> */}
 
-            <ContributeToTheSocity />
+            {/* <ContributeToTheSocity /> */}
+
+            <ContributeToTheSocity2 />
 
             <BlueBg />
             <OurBrandServices />
