@@ -2,7 +2,7 @@ import React from 'react'
 import women from '../../../img/women.png'
 import fourwomen from '../../../img/fourwomen.png'
 import system from '../../../img/system.png'
-import economy from '../../../img/economy.png'
+import economy from '../../../img/economy.PNG'
 
 import { useTranslation } from 'react-i18next'
 
