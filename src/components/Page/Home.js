@@ -23,9 +23,6 @@ const Home = () => {
 
 
 
-
-
-
     return (
         <>
             {/* <Header /> */}
@@ -35,11 +32,13 @@ const Home = () => {
 
 
 
+            <FivePoints />
 
+
+            {/* <Faucone4Startup /> */}
 
             <ContributeToTheSocity />
-            <FivePoints />
-            <Faucone4Startup />
+
             <BlueBg />
             <OurBrandServices />
 
