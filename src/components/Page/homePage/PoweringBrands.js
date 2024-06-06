@@ -1,6 +1,9 @@
 import React from 'react'
 import banner_image from '../../../img/banner_image.png'
 import { useTranslation } from 'react-i18next';
+import rocket from '../../../img/rocket.png'
+
+
 const PoweringBrands = () => {
     const { t } = useTranslation();
     return (
@@ -26,6 +29,7 @@ const PoweringBrands = () => {
 
 
             </main>
+            <img src={rocket} alt="" className='tw-w-[90%] tw-mt-20 tw-mx-auto tw-rounded-3xl  ' />
         </>
     )
 }

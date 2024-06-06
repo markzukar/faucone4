@@ -33,7 +33,7 @@ const Home = () => {
 
 
 
-            <FivePoints />
+
 
 
             {/* <Faucone4Startup /> */}
@@ -41,6 +41,7 @@ const Home = () => {
             {/* <ContributeToTheSocity /> */}
 
             <ContributeToTheSocity2 />
+            <FivePoints />
 
             <BlueBg />
             <OurBrandServices />

@@ -77,7 +77,7 @@ const Footer = () => {
 
 
                 {/* main content */}
-                <section className='tw-mx-40 tw-grid tw-grid-cols-4  tw-mt-10 '>
+                <section className='tw-mx-40 tw-grid tw-grid-cols-5  tw-mt-10 '>
                     <div className=''>
                         <p className='tw-text-[#202124] tw-text-[17px] tw-font-GoogleSansMedium tw-text-xl'>Company</p>
                         <div className='tw-mt-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xl'>
@@ -170,8 +170,22 @@ const Footer = () => {
                         <div className='tw-mt-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xl'>
                             <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>sales@faucone.com</a>
                             <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>support@faucone.com</a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>1800 309 4377</a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>www.faucone.com</a>
+                        </div>
+                    </div>
+
+                    <div className=''>
+                        <p className='tw-text-[#202124] tw-text-[17px] tw-font-GoogleSansMedium tw-text-xl'>Become a Partner</p>
+                        <div className='tw-mt-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xl'>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Agencies & Freelancers</a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Franchise</a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Affiliates</a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Offers</a>
+                        </div>
+                        <p className='tw-text-[#202124] tw-text-[17px] tw-font-GoogleSansMedium tw-text-xl tw-mt-6'>Support</p>
+                        <div className='tw-mt-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xl'>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Contact Us</a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Knowledge Base</a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'>Help Center</a>
                         </div>
                     </div>
 
@@ -183,19 +197,19 @@ const Footer = () => {
                         <img src={newTitle} alt="" className='tw-w-40' />
 
                         <div className='tw-flex tw-items-center tw-gap-x-3 tw-font-medium tw-font-GoogleSansMedium tw-text-[#5f6368] tw-text-xs'>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Security</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>IPR Complaints</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Anti-spam Policy</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Terms of Service</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Privacy Policy</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Cookie Policy</p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Abuse Policy </p></a>
-                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='tw-pr-5'>Disclaimer</p></a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>About Faucone</p></a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Faucone services</p></a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Policy</p></a>
+                            <a href='/' className='tw-py-[7px] tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Privacy</p></a>
+                            <a href='/' className='tw-block tw-text-[#5f6368] tw-no-underline hover:tw-text-black'><p className='vertical_line tw-pr-3'>Terms</p></a>
 
                         </div>
                     </div>
+                    <div className='tw-flex tw-items-center'>
+                        <p className='tw-text-sm  tw-text-[#5f6368]'>Help</p>
+                        <p className='tw-text-sm  tw-text-[#5f6368] tw-ml-6'>English</p>
+                    </div>
 
-                    <p className='tw-text-sm  tw-text-[#5f6368]'>&copy; {currentYear} Faucone. All Rights Reserved.</p>
                 </section>
             </main>
 
