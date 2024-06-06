@@ -826,7 +826,7 @@ const NewHeader = () => {
 
                             </li>
 
-                            <li className="tw-static " data-twe-nav-item-ref data-twe-dropdown-ref>
+                            {/* <li className="tw-static " data-twe-nav-item-ref data-twe-dropdown-ref>
                                 <a
                                     className=" tw-flex tw-no-underline tw-items-center tw-whitespace-nowrap tw-py-2 pe-2 tw-text-black tw-font-PuviMedium tw-transition tw-duration-200 hover:tw-text-black/80 hover:tw-ease-in-out focus:tw-text-black/80 active:tw-text-black/80 motion-reduce:tw-transition-none dark:tw-text-white/60 dark:hover:tw-text-white/80 dark:focus:tw-text-white/80 dark:active:tw-text-white/80 lg:tw-px-2"
                                     href="/"
@@ -1064,7 +1064,7 @@ const NewHeader = () => {
                                     </div>
                                 </div>
 
-                            </li>
+                            </li> */}
 
                             <li className="tw-static " data-twe-nav-item-ref data-twe-dropdown-ref>
                                 <a
@@ -1266,7 +1266,7 @@ const NewHeader = () => {
 
                     <button className='tw-hidden  lg:tw-flex tw-font-PuviMedium'>Sign in</button>
 
-                    <button className='tw-hidden  tw-font-PuviMedium lg:tw-flex tw-border tw-font-medium tw-px-3 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-duration-300'>Sign up</button>
+                    <button className='tw-hidden  tw-font-PuviMedium lg:tw-flex tw-border tw-font-medium tw-px-3 py-1 tw-border-[#1da9fd] tw-text-[#1da9fd] hover:tw-text-white hover:tw-bg-[#1da9fd] tw-duration-300'>Register</button>
 
                 </div>
             </nav>
